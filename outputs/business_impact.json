@@ -1,0 +1,103 @@
+{
+  "model": "random_forest",
+  "recall": 0.838,
+  "precision": 0.256,
+  "scenarios": [
+    {
+      "intervention_success_rate": 0.15,
+      "churn_reduction_pct": 12.6,
+      "customers_saved_per_month": 62.8,
+      "flagged_per_month": 1637.0,
+      "net_benefit_year1": 4168,
+      "net_benefit_year2plus": 24168,
+      "roi_year1_pct": 16
+    },
+    {
+      "intervention_success_rate": 0.2,
+      "churn_reduction_pct": 16.8,
+      "customers_saved_per_month": 83.8,
+      "flagged_per_month": 1637.0,
+      "net_benefit_year1": 14224,
+      "net_benefit_year2plus": 34224,
+      "roi_year1_pct": 55
+    },
+    {
+      "intervention_success_rate": 0.24,
+      "churn_reduction_pct": 20.1,
+      "customers_saved_per_month": 100.6,
+      "flagged_per_month": 1637.0,
+      "net_benefit_year1": 22269,
+      "net_benefit_year2plus": 42269,
+      "roi_year1_pct": 86
+    },
+    {
+      "intervention_success_rate": 0.3,
+      "churn_reduction_pct": 25.1,
+      "customers_saved_per_month": 125.7,
+      "flagged_per_month": 1637.0,
+      "net_benefit_year1": 34336,
+      "net_benefit_year2plus": 54336,
+      "roi_year1_pct": 132
+    },
+    {
+      "intervention_success_rate": 0.4,
+      "churn_reduction_pct": 33.5,
+      "customers_saved_per_month": 167.6,
+      "flagged_per_month": 1637.0,
+      "net_benefit_year1": 54448,
+      "net_benefit_year2plus": 74448,
+      "roi_year1_pct": 209
+    }
+  ],
+  "central_case": {
+    "intervention_success_rate": 0.24,
+    "churn_reduction_pct": 20.1,
+    "customers_saved_per_month": 100.6,
+    "flagged_per_month": 1637.0,
+    "net_benefit_year1": 22269,
+    "net_benefit_year2plus": 42269,
+    "roi_year1_pct": 86
+  },
+  "outreach_sensitivity": [
+    {
+      "outreach_unit": 0,
+      "intervention_success_rate": 0.24,
+      "churn_reduction_pct": 20.1,
+      "customers_saved_per_month": 100.6,
+      "flagged_per_month": 1637.0,
+      "net_benefit_year1": 22269,
+      "net_benefit_year2plus": 42269,
+      "roi_year1_pct": 86
+    },
+    {
+      "outreach_unit": 5,
+      "intervention_success_rate": 0.24,
+      "churn_reduction_pct": 20.1,
+      "customers_saved_per_month": 100.6,
+      "flagged_per_month": 1637.0,
+      "net_benefit_year1": -75934,
+      "net_benefit_year2plus": -55934,
+      "roi_year1_pct": -61
+    },
+    {
+      "outreach_unit": 10,
+      "intervention_success_rate": 0.24,
+      "churn_reduction_pct": 20.1,
+      "customers_saved_per_month": 100.6,
+      "flagged_per_month": 1637.0,
+      "net_benefit_year1": -174137,
+      "net_benefit_year2plus": -154137,
+      "roi_year1_pct": -78
+    },
+    {
+      "outreach_unit": 20,
+      "intervention_success_rate": 0.24,
+      "churn_reduction_pct": 20.1,
+      "customers_saved_per_month": 100.6,
+      "flagged_per_month": 1637.0,
+      "net_benefit_year1": -370544,
+      "net_benefit_year2plus": -350544,
+      "roi_year1_pct": -88
+    }
+  ]
+}

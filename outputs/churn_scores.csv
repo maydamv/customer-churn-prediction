@@ -1,0 +1,818 @@
+customer_id,snapshot_date,plan_type,months_subscribed,monthly_fee,churn_probability,risk_tier,suggested_action
+9185-TQCVP,2024-11-17,monthly,14,85.15,0.913,high,Personal outreach from a success manager + retention offer
+8035-PWSEV,2024-11-18,monthly,6,89.25,0.9096,high,Personal outreach from a success manager + retention offer
+6894-LFHLY,2024-11-30,monthly,1,75.75,0.883,high,Personal outreach from a success manager + retention offer
+6683-VLCTZ,2024-12-10,monthly,20,98.55,0.8324,high,Personal outreach from a success manager + retention offer
+8111-RKSPX,2024-12-09,monthly,4,72.2,0.8317,high,Personal outreach from a success manager + retention offer
+2962-XPMCQ,2024-11-06,monthly,2,45.15,0.8158,high,Personal outreach from a success manager + retention offer
+5442-BHQNG,2024-12-07,monthly,2,70.35,0.808,high,Personal outreach from a success manager + retention offer
+5429-LWCMV,2024-11-25,monthly,12,89.15,0.8021,high,Personal outreach from a success manager + retention offer
+9221-OTIVJ,2024-11-17,monthly,14,104.85,0.7971,high,Personal outreach from a success manager + retention offer
+7912-SYRQT,2024-11-28,monthly,7,75.1,0.7614,high,Personal outreach from a success manager + retention offer
+0811-GSDTP,2024-11-06,monthly,13,30.15,0.7553,high,Personal outreach from a success manager + retention offer
+1143-NMNQJ,2024-12-17,monthly,2,85.7,0.7505,high,Personal outreach from a success manager + retention offer
+9492-TOKRI,2024-11-14,monthly,18,90.0,0.7429,high,Personal outreach from a success manager + retention offer
+5136-RGMZO,2024-12-19,monthly,31,71.05,0.7401,high,Personal outreach from a success manager + retention offer
+7137-RYLPP,2024-12-05,monthly,37,85.7,0.7289,high,Personal outreach from a success manager + retention offer
+9840-EFJQB,2024-12-26,monthly,1,74.35,0.6983,high,Personal outreach from a success manager + retention offer
+3090-LETTY,2024-12-15,monthly,2,60.95,0.6828,high,Personal outreach from a success manager + retention offer
+4482-FTFFX,2024-12-27,monthly,5,56.15,0.6779,high,Personal outreach from a success manager + retention offer
+4854-CIDCF,2024-12-08,monthly,3,73.85,0.6766,high,Personal outreach from a success manager + retention offer
+9714-EDSUC,2024-12-19,monthly,4,94.9,0.6745,high,Personal outreach from a success manager + retention offer
+0916-QOFDP,2024-12-20,monthly,14,95.8,0.6694,high,Personal outreach from a success manager + retention offer
+7044-YAACC,2024-12-23,monthly,4,70.2,0.6649,high,Personal outreach from a success manager + retention offer
+7730-IUTDZ,2024-11-10,monthly,43,75.2,0.6632,high,Personal outreach from a success manager + retention offer
+3295-YVUSR,2024-11-25,monthly,2,72.6,0.6629,high,Personal outreach from a success manager + retention offer
+2920-RNCEZ,2024-12-29,monthly,1,69.95,0.6622,high,Personal outreach from a success manager + retention offer
+8824-RWFXJ,2024-12-23,monthly,3,56.15,0.6554,high,Personal outreach from a success manager + retention offer
+6347-DCUIK,2024-12-05,monthly,10,74.15,0.6468,high,Personal outreach from a success manager + retention offer
+7278-CKDNC,2024-12-27,monthly,24,80.5,0.6402,high,Personal outreach from a success manager + retention offer
+5133-POWUA,2024-12-02,monthly,1,45.8,0.6381,high,Personal outreach from a success manager + retention offer
+3757-NJYBX,2024-11-14,monthly,32,106.35,0.6359,high,Personal outreach from a success manager + retention offer
+4931-TRZWN,2024-11-19,monthly,13,71.95,0.632,high,Personal outreach from a success manager + retention offer
+4234-XTNEA,2024-12-12,monthly,2,79.95,0.6272,high,Personal outreach from a success manager + retention offer
+4285-GYRQC,2024-12-28,monthly,7,86.25,0.6198,high,Personal outreach from a success manager + retention offer
+0829-XXPLX,2024-11-23,monthly,20,89.4,0.6159,high,Personal outreach from a success manager + retention offer
+6185-TASNN,2024-11-07,monthly,1,46.3,0.6146,high,Personal outreach from a success manager + retention offer
+1820-TQVEV,2024-11-26,monthly,1,69.55,0.612,high,Personal outreach from a success manager + retention offer
+2815-CPTUL,2024-12-18,monthly,5,70.25,0.6112,high,Personal outreach from a success manager + retention offer
+7365-BVCJH,2024-12-02,monthly,1,24.4,0.6091,high,Personal outreach from a success manager + retention offer
+1965-DDBWU,2024-11-21,monthly,16,89.05,0.5989,high,Personal outreach from a success manager + retention offer
+7517-LDMPS,2024-11-10,monthly,12,84.6,0.5984,high,Personal outreach from a success manager + retention offer
+4786-UKSNZ,2024-11-17,monthly,1,20.2,0.5977,high,Personal outreach from a success manager + retention offer
+2709-UQGNP,2024-12-23,monthly,10,51.65,0.5973,high,Personal outreach from a success manager + retention offer
+0689-NKYLF,2024-11-28,monthly,13,83.2,0.5959,high,Personal outreach from a success manager + retention offer
+3629-ZNKXA,2024-12-18,monthly,17,101.8,0.5896,high,Personal outreach from a success manager + retention offer
+0515-YPMCW,2024-12-05,monthly,1,70.45,0.5755,high,Personal outreach from a success manager + retention offer
+2789-HQBOU,2024-11-12,monthly,3,80.35,0.5752,high,Personal outreach from a success manager + retention offer
+2100-BDNSN,2024-12-16,monthly,5,67.95,0.5722,high,Personal outreach from a success manager + retention offer
+1769-GRUIK,2024-11-28,monthly,18,71.1,0.5707,high,Personal outreach from a success manager + retention offer
+1319-YLZJG,2024-12-08,monthly,12,84.6,0.5695,high,Personal outreach from a success manager + retention offer
+5156-UMKOW,2024-11-13,monthly,3,29.65,0.563,high,Personal outreach from a success manager + retention offer
+0867-LDTTC,2024-11-19,monthly,5,75.15,0.5608,high,Personal outreach from a success manager + retention offer
+6267-DCFFZ,2024-12-19,monthly,30,90.05,0.5537,high,Personal outreach from a success manager + retention offer
+5167-ZFFMM,2024-12-10,monthly,1,90.85,0.547,high,Personal outreach from a success manager + retention offer
+7675-OZCZG,2024-11-14,monthly,3,45.0,0.5467,high,Personal outreach from a success manager + retention offer
+1197-BVMVG,2024-12-24,monthly,4,74.45,0.543,high,Personal outreach from a success manager + retention offer
+5568-DMXZS,2024-11-25,monthly,8,65.45,0.5417,high,Personal outreach from a success manager + retention offer
+5168-MSWXT,2024-11-20,monthly,8,94.75,0.5262,high,Personal outreach from a success manager + retention offer
+8242-JSVBO,2024-11-06,monthly,7,44.65,0.5051,high,Personal outreach from a success manager + retention offer
+3338-CVVEH,2024-11-16,monthly,12,94.55,0.501,high,Personal outreach from a success manager + retention offer
+8543-MSDMF,2024-11-12,monthly,3,77.4,0.5001,high,Personal outreach from a success manager + retention offer
+4523-WXCEF,2024-12-10,monthly,59,101.1,0.4955,high,Personal outreach from a success manager + retention offer
+1452-KIOVK,2024-12-24,monthly,22,89.1,0.4857,high,Personal outreach from a success manager + retention offer
+0928-XUTSN,2024-11-22,monthly,13,80.5,0.4808,high,Personal outreach from a success manager + retention offer
+7459-IMVYU,2024-12-20,monthly,38,69.95,0.4803,high,Personal outreach from a success manager + retention offer
+3345-PBBFH,2024-11-20,monthly,8,49.55,0.4792,high,Personal outreach from a success manager + retention offer
+8270-RKSAP,2024-12-07,monthly,9,70.5,0.4751,high,Personal outreach from a success manager + retention offer
+6483-OATDN,2024-11-09,monthly,8,51.3,0.4699,high,Personal outreach from a success manager + retention offer
+7389-KBFIT,2024-12-27,monthly,2,30.25,0.4614,high,Personal outreach from a success manager + retention offer
+7801-KICAO,2024-11-27,monthly,18,74.15,0.4506,high,Personal outreach from a success manager + retention offer
+5882-CMAZQ,2024-11-08,monthly,5,34.25,0.4474,high,Personal outreach from a success manager + retention offer
+0585-EGDDA,2024-11-10,monthly,40,80.0,0.447,high,Personal outreach from a success manager + retention offer
+8404-FYDIB,2024-11-16,monthly,26,86.65,0.4467,high,Personal outreach from a success manager + retention offer
+9907-SWKKF,2024-12-21,monthly,1,25.05,0.4366,high,Personal outreach from a success manager + retention offer
+4537-DKTAL,2024-12-14,monthly,2,45.55,0.436,high,Personal outreach from a success manager + retention offer
+7501-VTYLJ,2024-12-17,monthly,2,51.55,0.4298,high,Personal outreach from a success manager + retention offer
+1548-ARAGG,2024-11-18,monthly,4,58.5,0.4293,high,Personal outreach from a success manager + retention offer
+4140-WJAWW,2024-12-05,monthly,5,19.85,0.4208,high,Personal outreach from a success manager + retention offer
+2129-ALKBS,2024-11-10,monthly,40,26.2,0.4179,high,Personal outreach from a success manager + retention offer
+2974-GGUXS,2024-12-03,monthly,36,91.95,0.4162,high,Personal outreach from a success manager + retention offer
+1304-BCCFO,2024-12-03,monthly,9,70.05,0.4141,high,Personal outreach from a success manager + retention offer
+7562-UXTPG,2024-12-02,monthly,13,70.15,0.4087,high,Personal outreach from a success manager + retention offer
+3317-VLGQT,2024-12-22,monthly,14,78.1,0.4055,high,Personal outreach from a success manager + retention offer
+1251-STYSZ,2024-12-02,monthly,4,80.25,0.4012,high,Personal outreach from a success manager + retention offer
+9921-EZKBY,2024-12-14,monthly,33,95.3,0.401,high,Personal outreach from a success manager + retention offer
+2604-XVDAM,2024-12-28,monthly,12,43.8,0.3944,high,Personal outreach from a success manager + retention offer
+7636-OWBPG,2024-12-06,monthly,12,29.35,0.3942,high,Personal outreach from a success manager + retention offer
+5609-IMCGG,2024-11-29,monthly,15,84.35,0.39,high,Personal outreach from a success manager + retention offer
+5533-NHFRF,2024-11-18,monthly,7,44.4,0.3855,high,Personal outreach from a success manager + retention offer
+3192-LNKRK,2024-12-11,monthly,34,84.05,0.3848,high,Personal outreach from a success manager + retention offer
+6734-GMPVK,2024-11-18,monthly,5,105.3,0.3826,high,Personal outreach from a success manager + retention offer
+0135-NMXAP,2024-12-20,monthly,12,89.75,0.3814,high,Personal outreach from a success manager + retention offer
+2362-IBOOY,2024-11-24,monthly,36,84.75,0.3791,high,Personal outreach from a success manager + retention offer
+5989-PGKJB,2024-11-05,monthly,16,86.25,0.3751,high,Personal outreach from a success manager + retention offer
+0674-EYYZV,2024-11-12,monthly,1,54.65,0.3748,high,Personal outreach from a success manager + retention offer
+1866-OBPNR,2024-12-21,monthly,1,74.6,0.3742,high,Personal outreach from a success manager + retention offer
+1751-NCDLI,2024-12-22,monthly,46,98.85,0.3728,high,Personal outreach from a success manager + retention offer
+7175-NTIXE,2024-12-15,monthly,25,76.15,0.3726,high,Personal outreach from a success manager + retention offer
+2811-POVEX,2024-11-30,monthly,23,88.45,0.3722,high,Personal outreach from a success manager + retention offer
+5293-WXJAK,2024-12-21,monthly,11,104.05,0.3717,high,Personal outreach from a success manager + retention offer
+9779-DPNEJ,2024-11-24,monthly,22,80.15,0.3707,high,Personal outreach from a success manager + retention offer
+3771-PZOBW,2024-11-27,monthly,20,90.7,0.3661,high,Personal outreach from a success manager + retention offer
+1818-ESQMW,2024-11-06,monthly,27,89.2,0.365,high,Personal outreach from a success manager + retention offer
+5515-RUGKN,2024-11-13,monthly,8,54.75,0.3634,high,Personal outreach from a success manager + retention offer
+4280-DLSHD,2024-11-10,monthly,8,54.75,0.3616,high,Personal outreach from a success manager + retention offer
+6652-YFFJO,2024-11-15,monthly,11,64.9,0.3602,high,Personal outreach from a success manager + retention offer
+6986-IJDHX,2024-12-04,monthly,39,86.3,0.3568,high,Personal outreach from a success manager + retention offer
+5956-YHHRX,2024-12-09,monthly,21,104.35,0.3536,high,Personal outreach from a success manager + retention offer
+1393-IMKZG,2024-11-25,monthly,1,95.85,0.3528,high,Personal outreach from a success manager + retention offer
+3038-PQIUY,2024-11-29,monthly,38,66.15,0.3508,high,Personal outreach from a success manager + retention offer
+3352-ALMCK,2024-12-02,monthly,40,102.65,0.3484,high,Personal outreach from a success manager + retention offer
+0374-AACSZ,2024-12-01,monthly,1,50.15,0.3474,high,Personal outreach from a success manager + retention offer
+4929-XIHVW,2024-12-05,monthly,2,95.5,0.3402,high,Personal outreach from a success manager + retention offer
+0111-KLBQG,2024-12-23,monthly,32,93.95,0.3391,high,Personal outreach from a success manager + retention offer
+6458-CYIDZ,2024-12-27,monthly,5,80.7,0.338,high,Personal outreach from a success manager + retention offer
+7343-EOBEU,2024-11-16,monthly,3,23.6,0.3375,high,Personal outreach from a success manager + retention offer
+8584-KMVXD,2024-11-10,monthly,8,75.6,0.3366,high,Personal outreach from a success manager + retention offer
+4947-DSMXK,2024-12-07,monthly,34,97.7,0.3361,high,Personal outreach from a success manager + retention offer
+9547-ITEFG,2024-12-18,monthly,9,102.6,0.3334,high,Personal outreach from a success manager + retention offer
+1636-NTNCO,2024-12-14,monthly,4,50.95,0.3326,high,Personal outreach from a success manager + retention offer
+6817-WTYHE,2024-12-25,monthly,2,44.9,0.3326,high,Personal outreach from a success manager + retention offer
+4581-LNWUM,2024-11-28,monthly,13,49.15,0.3322,high,Personal outreach from a success manager + retention offer
+2960-NKRSO,2024-11-27,monthly,24,85.95,0.327,medium,Automated targeted email + onboarding/usage guide
+3420-YJLQT,2024-12-13,monthly,2,79.55,0.3228,medium,Automated targeted email + onboarding/usage guide
+7634-WSWDB,2024-11-29,monthly,8,38.5,0.3207,medium,Automated targeted email + onboarding/usage guide
+7041-TXQJH,2024-12-04,monthly,37,40.2,0.3197,medium,Automated targeted email + onboarding/usage guide
+4129-LYCOI,2024-11-07,biennial,67,104.0,0.3197,medium,Automated targeted email + onboarding/usage guide
+8180-AKMJV,2024-11-07,monthly,1,44.55,0.3196,medium,Automated targeted email + onboarding/usage guide
+1456-TWCGB,2024-12-09,monthly,4,49.25,0.3167,medium,Automated targeted email + onboarding/usage guide
+2851-STERV,2024-12-10,annual,35,73.0,0.3159,medium,Automated targeted email + onboarding/usage guide
+6994-KERXL,2024-12-20,monthly,4,55.9,0.3157,medium,Automated targeted email + onboarding/usage guide
+8250-ZNGGW,2024-11-20,monthly,5,59.9,0.3141,medium,Automated targeted email + onboarding/usage guide
+9927-DSWDF,2024-11-25,monthly,22,104.6,0.3129,medium,Automated targeted email + onboarding/usage guide
+3043-TYBNO,2024-11-12,monthly,3,60.65,0.3112,medium,Automated targeted email + onboarding/usage guide
+6507-ZJSUR,2024-12-18,monthly,23,90.45,0.3092,medium,Automated targeted email + onboarding/usage guide
+9469-WEJBT,2024-11-16,monthly,37,90.35,0.3079,medium,Automated targeted email + onboarding/usage guide
+4983-CCWMC,2024-11-19,monthly,3,69.6,0.3035,medium,Automated targeted email + onboarding/usage guide
+1257-SXUXQ,2024-11-28,monthly,5,19.45,0.3025,medium,Automated targeted email + onboarding/usage guide
+7246-ZGQDF,2024-11-27,monthly,1,54.5,0.3,medium,Automated targeted email + onboarding/usage guide
+1471-GIQKQ,2024-12-07,monthly,1,49.95,0.2999,medium,Automated targeted email + onboarding/usage guide
+8875-AKBYH,2024-12-22,monthly,20,84.35,0.2994,medium,Automated targeted email + onboarding/usage guide
+3733-LSYCE,2024-12-02,monthly,15,75.35,0.2983,medium,Automated targeted email + onboarding/usage guide
+5337-IIWKZ,2024-12-22,monthly,34,44.85,0.2955,medium,Automated targeted email + onboarding/usage guide
+9626-WEQRM,2024-11-15,monthly,4,29.15,0.292,medium,Automated targeted email + onboarding/usage guide
+1816-FLZDK,2024-11-26,monthly,1,29.15,0.2916,medium,Automated targeted email + onboarding/usage guide
+8161-QYMTT,2024-12-02,monthly,7,94.1,0.2864,medium,Automated targeted email + onboarding/usage guide
+5074-FBGHB,2024-11-29,annual,64,104.65,0.2856,medium,Automated targeted email + onboarding/usage guide
+4612-SSVHJ,2024-12-07,monthly,20,81.45,0.2852,medium,Automated targeted email + onboarding/usage guide
+7994-UYIVZ,2024-12-15,monthly,8,85.65,0.2823,medium,Automated targeted email + onboarding/usage guide
+1921-KYSAY,2024-12-02,annual,41,68.6,0.279,medium,Automated targeted email + onboarding/usage guide
+0128-MKWSG,2024-11-19,monthly,26,45.8,0.2788,medium,Automated targeted email + onboarding/usage guide
+4298-OYIFC,2024-11-23,monthly,15,103.45,0.2785,medium,Automated targeted email + onboarding/usage guide
+0188-GWFLE,2024-11-23,monthly,2,20.05,0.2759,medium,Automated targeted email + onboarding/usage guide
+7140-ADSMJ,2024-11-16,monthly,8,20.45,0.2745,medium,Automated targeted email + onboarding/usage guide
+3572-UOLYZ,2024-12-22,monthly,46,84.8,0.2734,medium,Automated targeted email + onboarding/usage guide
+5393-HJZSM,2024-11-23,monthly,32,76.3,0.2725,medium,Automated targeted email + onboarding/usage guide
+4636-OLWOE,2024-12-06,annual,54,61.0,0.2703,medium,Automated targeted email + onboarding/usage guide
+1261-FWTTE,2024-12-11,monthly,23,34.65,0.2687,medium,Automated targeted email + onboarding/usage guide
+6806-YDEUL,2024-11-21,monthly,6,19.5,0.2678,medium,Automated targeted email + onboarding/usage guide
+7442-YGZFK,2024-12-01,monthly,1,49.8,0.2673,medium,Automated targeted email + onboarding/usage guide
+0939-EREMR,2024-11-22,monthly,13,53.45,0.2646,medium,Automated targeted email + onboarding/usage guide
+1215-VFYVK,2024-12-17,monthly,4,48.25,0.2639,medium,Automated targeted email + onboarding/usage guide
+1658-TJVOA,2024-12-20,monthly,6,74.1,0.2623,medium,Automated targeted email + onboarding/usage guide
+3413-BMNZE,2024-12-16,monthly,1,45.25,0.2603,medium,Automated targeted email + onboarding/usage guide
+9279-CJEOJ,2024-12-07,monthly,21,95.4,0.2581,medium,Automated targeted email + onboarding/usage guide
+9281-OFDMF,2024-12-04,monthly,39,90.7,0.2581,medium,Automated targeted email + onboarding/usage guide
+7245-JMTTQ,2024-12-29,annual,51,111.5,0.258,medium,Automated targeted email + onboarding/usage guide
+6425-YQLLO,2024-12-24,annual,66,105.95,0.2573,medium,Automated targeted email + onboarding/usage guide
+2408-TZMJL,2024-11-15,annual,59,110.15,0.2552,medium,Automated targeted email + onboarding/usage guide
+4822-LPTYJ,2024-12-13,biennial,72,103.75,0.2532,medium,Automated targeted email + onboarding/usage guide
+4945-RVMTE,2024-12-16,monthly,28,59.55,0.2518,medium,Automated targeted email + onboarding/usage guide
+8455-HIRAQ,2024-12-19,monthly,8,44.45,0.2504,medium,Automated targeted email + onboarding/usage guide
+6231-WFGFH,2024-11-15,monthly,4,20.5,0.2496,medium,Automated targeted email + onboarding/usage guide
+8620-RJPZN,2024-12-14,monthly,1,20.7,0.2495,medium,Automated targeted email + onboarding/usage guide
+3638-DIMPH,2024-11-11,annual,13,43.8,0.2493,medium,Automated targeted email + onboarding/usage guide
+2386-OWURY,2024-12-07,monthly,58,95.3,0.2477,medium,Automated targeted email + onboarding/usage guide
+6603-YRDCJ,2024-11-26,biennial,33,61.05,0.246,medium,Automated targeted email + onboarding/usage guide
+9074-KGVOX,2024-12-27,monthly,50,39.45,0.2458,medium,Automated targeted email + onboarding/usage guide
+8695-WDYEA,2024-12-16,monthly,1,51.25,0.2434,medium,Automated targeted email + onboarding/usage guide
+7319-VENRZ,2024-12-30,monthly,7,64.3,0.2429,medium,Automated targeted email + onboarding/usage guide
+1855-CFULU,2024-12-16,monthly,4,20.05,0.2429,medium,Automated targeted email + onboarding/usage guide
+0689-DSXGL,2024-12-24,monthly,52,85.8,0.2427,medium,Automated targeted email + onboarding/usage guide
+2885-HIJDH,2024-12-29,biennial,69,86.9,0.2422,medium,Automated targeted email + onboarding/usage guide
+0237-YFUTL,2024-11-11,monthly,50,109.65,0.2421,medium,Automated targeted email + onboarding/usage guide
+4130-MZLCC,2024-12-24,monthly,5,50.55,0.2401,medium,Automated targeted email + onboarding/usage guide
+5628-FCGYG,2024-12-29,monthly,21,84.1,0.2392,medium,Automated targeted email + onboarding/usage guide
+2308-STERM,2024-11-05,monthly,2,19.4,0.2381,medium,Automated targeted email + onboarding/usage guide
+5815-HGGHV,2024-12-28,annual,20,64.15,0.238,medium,Automated targeted email + onboarding/usage guide
+6704-UTUKK,2024-11-20,monthly,29,45.9,0.237,medium,Automated targeted email + onboarding/usage guide
+8735-NBLWT,2024-12-03,monthly,9,20.4,0.2344,medium,Automated targeted email + onboarding/usage guide
+4393-RYCRE,2024-11-11,annual,44,106.05,0.2339,medium,Automated targeted email + onboarding/usage guide
+5025-GOOKI,2024-11-10,monthly,20,18.9,0.2336,medium,Automated targeted email + onboarding/usage guide
+1810-MVMAI,2024-11-30,monthly,30,67.6,0.2286,medium,Automated targeted email + onboarding/usage guide
+1156-ZFYDO,2024-11-05,monthly,1,19.75,0.2271,medium,Automated targeted email + onboarding/usage guide
+3452-GWUIN,2024-11-21,monthly,19,94.95,0.2252,medium,Automated targeted email + onboarding/usage guide
+3597-MVHJT,2024-12-01,monthly,27,95.6,0.2241,medium,Automated targeted email + onboarding/usage guide
+3955-JBZZM,2024-11-22,monthly,20,78.8,0.2218,medium,Automated targeted email + onboarding/usage guide
+9495-SKLKD,2024-12-02,monthly,45,95.95,0.2213,medium,Automated targeted email + onboarding/usage guide
+7312-XSBAT,2024-12-09,monthly,1,49.75,0.2209,medium,Automated targeted email + onboarding/usage guide
+6377-KSLXC,2024-12-05,monthly,5,19.95,0.2208,medium,Automated targeted email + onboarding/usage guide
+7251-XFOIL,2024-11-17,monthly,61,89.2,0.219,medium,Automated targeted email + onboarding/usage guide
+9396-ZSFLL,2024-12-02,monthly,15,48.85,0.2184,medium,Automated targeted email + onboarding/usage guide
+6807-SIWJI,2024-11-11,annual,38,104.85,0.2173,medium,Automated targeted email + onboarding/usage guide
+4781-ZXYGU,2024-12-08,monthly,1,20.15,0.2172,medium,Automated targeted email + onboarding/usage guide
+3845-JHAMY,2024-11-24,monthly,16,35.5,0.2151,medium,Automated targeted email + onboarding/usage guide
+1095-JUDTC,2024-12-16,monthly,47,95.05,0.2146,medium,Automated targeted email + onboarding/usage guide
+3640-JQGJG,2024-12-14,monthly,13,44.8,0.2136,medium,Automated targeted email + onboarding/usage guide
+2697-NQBPF,2024-12-16,monthly,34,105.35,0.2135,medium,Automated targeted email + onboarding/usage guide
+8990-ZXLSU,2024-12-06,monthly,9,69.05,0.2128,medium,Automated targeted email + onboarding/usage guide
+4884-TVUQF,2024-12-17,biennial,57,101.3,0.2125,medium,Automated targeted email + onboarding/usage guide
+1656-DRSMG,2024-11-24,monthly,63,109.85,0.2092,medium,Automated targeted email + onboarding/usage guide
+7880-XSOJX,2024-12-05,monthly,4,42.4,0.2091,medium,Automated targeted email + onboarding/usage guide
+2074-GUHPQ,2024-12-27,monthly,17,92.7,0.2089,medium,Automated targeted email + onboarding/usage guide
+4323-OHFOW,2024-11-22,annual,70,105.55,0.2079,medium,Automated targeted email + onboarding/usage guide
+0253-ZTEOB,2024-12-28,biennial,48,79.65,0.207,medium,Automated targeted email + onboarding/usage guide
+7054-ENNGU,2024-11-29,monthly,9,50.85,0.206,medium,Automated targeted email + onboarding/usage guide
+6888-SBYAI,2024-12-15,monthly,1,50.7,0.2055,medium,Automated targeted email + onboarding/usage guide
+4939-KYYPY,2024-12-16,monthly,27,59.45,0.205,medium,Automated targeted email + onboarding/usage guide
+6710-HSJRD,2024-11-10,monthly,61,114.1,0.2044,medium,Automated targeted email + onboarding/usage guide
+1777-JYQPJ,2024-12-26,monthly,2,24.3,0.1966,medium,Automated targeted email + onboarding/usage guide
+7989-VCQOH,2024-12-15,monthly,18,83.25,0.1961,medium,Automated targeted email + onboarding/usage guide
+3316-UWXUY,2024-12-25,monthly,50,93.5,0.1941,medium,Automated targeted email + onboarding/usage guide
+3893-JRNFS,2024-12-25,monthly,68,39.9,0.1914,medium,Automated targeted email + onboarding/usage guide
+0201-MIBOL,2024-11-25,biennial,66,102.4,0.1905,medium,Automated targeted email + onboarding/usage guide
+9481-IEBZY,2024-12-23,monthly,72,112.9,0.1902,medium,Automated targeted email + onboarding/usage guide
+5312-UXESG,2024-12-06,monthly,41,98.05,0.1855,medium,Automated targeted email + onboarding/usage guide
+1794-SWWKL,2024-12-27,monthly,15,59.65,0.1854,medium,Automated targeted email + onboarding/usage guide
+8456-QDAVC,2024-11-09,monthly,19,78.7,0.1847,medium,Automated targeted email + onboarding/usage guide
+8190-ZTQFB,2024-11-15,annual,41,51.35,0.1845,medium,Automated targeted email + onboarding/usage guide
+6198-ZFIOJ,2024-11-08,monthly,5,75.6,0.1844,medium,Automated targeted email + onboarding/usage guide
+7460-ITWWP,2024-11-29,monthly,45,86.1,0.1844,medium,Automated targeted email + onboarding/usage guide
+5692-ICXLW,2024-11-11,monthly,31,90.7,0.1831,medium,Automated targeted email + onboarding/usage guide
+7426-WEIJX,2024-11-26,monthly,60,80.95,0.1826,medium,Automated targeted email + onboarding/usage guide
+1591-NFNLQ,2024-12-01,monthly,51,80.0,0.1825,medium,Automated targeted email + onboarding/usage guide
+4472-LVYGI,2024-11-11,biennial,0,52.55,0.1821,medium,Automated targeted email + onboarding/usage guide
+5016-IBERQ,2024-11-06,monthly,23,84.25,0.1821,medium,Automated targeted email + onboarding/usage guide
+5839-SUYVZ,2024-12-11,monthly,16,74.55,0.182,medium,Automated targeted email + onboarding/usage guide
+5600-PDUJF,2024-12-24,monthly,6,49.5,0.1819,medium,Automated targeted email + onboarding/usage guide
+3675-EQOZA,2024-12-29,monthly,5,20.65,0.181,medium,Automated targeted email + onboarding/usage guide
+6128-AQBMT,2024-12-05,monthly,41,53.95,0.1808,medium,Automated targeted email + onboarding/usage guide
+8731-WBBMB,2024-11-20,monthly,26,81.9,0.1793,medium,Automated targeted email + onboarding/usage guide
+3058-WQDRE,2024-11-17,monthly,13,25.15,0.179,medium,Automated targeted email + onboarding/usage guide
+6617-WLBQC,2024-11-06,annual,23,81.85,0.1786,medium,Automated targeted email + onboarding/usage guide
+3258-SYSWS,2024-12-06,biennial,72,113.8,0.1765,medium,Automated targeted email + onboarding/usage guide
+3452-ABWRL,2024-12-12,monthly,47,86.05,0.1746,medium,Automated targeted email + onboarding/usage guide
+5035-PGZXH,2024-11-27,annual,56,106.8,0.1745,medium,Automated targeted email + onboarding/usage guide
+9261-WDCAF,2024-12-22,monthly,3,54.65,0.1722,medium,Automated targeted email + onboarding/usage guide
+2001-EWBQU,2024-12-07,biennial,60,104.7,0.1717,medium,Automated targeted email + onboarding/usage guide
+0308-GIQJT,2024-12-23,annual,71,105.75,0.1714,medium,Automated targeted email + onboarding/usage guide
+9904-EHEVJ,2024-12-21,monthly,32,91.35,0.171,medium,Automated targeted email + onboarding/usage guide
+9919-YLNNG,2024-12-05,monthly,42,103.8,0.1698,medium,Automated targeted email + onboarding/usage guide
+2439-QKJUL,2024-11-23,monthly,5,20.25,0.1698,medium,Automated targeted email + onboarding/usage guide
+9837-FWLCH,2024-12-29,monthly,12,19.2,0.1698,medium,Automated targeted email + onboarding/usage guide
+7623-HKYRK,2024-12-03,monthly,6,19.7,0.1697,medium,Automated targeted email + onboarding/usage guide
+2087-QAREY,2024-12-05,monthly,22,54.7,0.1691,medium,Automated targeted email + onboarding/usage guide
+5055-MGMGF,2024-11-08,monthly,65,105.05,0.1683,medium,Automated targeted email + onboarding/usage guide
+1641-BYBTK,2024-11-09,monthly,6,20.2,0.1675,medium,Automated targeted email + onboarding/usage guide
+7266-GSSJX,2024-12-12,monthly,11,20.45,0.1673,medium,Automated targeted email + onboarding/usage guide
+7905-NJMXS,2024-12-20,monthly,7,64.2,0.1669,medium,Automated targeted email + onboarding/usage guide
+3865-YIOTT,2024-12-02,annual,72,106.1,0.1664,medium,Automated targeted email + onboarding/usage guide
+0420-HLGXF,2024-11-06,monthly,39,99.75,0.1656,medium,Automated targeted email + onboarding/usage guide
+5351-QESIO,2024-12-05,monthly,1,24.2,0.1652,low,No action — keep monitoring
+9027-YFHQJ,2024-12-09,monthly,7,25.05,0.165,low,No action — keep monitoring
+8992-OBVDG,2024-12-26,monthly,21,61.65,0.1647,low,No action — keep monitoring
+6463-HHXJR,2024-12-23,biennial,71,100.5,0.1637,low,No action — keep monitoring
+8671-KKKOS,2024-11-20,monthly,46,45.55,0.1618,low,No action — keep monitoring
+2519-ERQOJ,2024-12-12,monthly,33,54.6,0.1613,low,No action — keep monitoring
+6907-CQGPN,2024-11-24,monthly,29,34.3,0.1601,low,No action — keep monitoring
+6620-HVDUJ,2024-12-16,monthly,24,60.45,0.1599,low,No action — keep monitoring
+0909-SDHNU,2024-12-30,monthly,7,29.8,0.1595,low,No action — keep monitoring
+6234-RAAPL,2024-12-26,biennial,72,99.9,0.159,low,No action — keep monitoring
+9281-PKKZE,2024-12-15,monthly,46,43.95,0.1579,low,No action — keep monitoring
+6873-UDNLD,2024-12-15,monthly,40,67.45,0.1569,low,No action — keep monitoring
+8033-ATFAS,2024-12-19,monthly,39,59.85,0.1565,low,No action — keep monitoring
+7808-DVWEP,2024-11-10,monthly,3,20.0,0.1543,low,No action — keep monitoring
+2346-DJQTB,2024-12-04,monthly,35,24.15,0.154,low,No action — keep monitoring
+3841-NFECX,2024-11-21,biennial,71,96.35,0.154,low,No action — keep monitoring
+1699-UOTXU,2024-11-14,biennial,60,61.4,0.1534,low,No action — keep monitoring
+4086-ATNFV,2024-11-28,annual,34,60.8,0.1517,low,No action — keep monitoring
+4016-BJKTZ,2024-11-24,biennial,25,108.9,0.1515,low,No action — keep monitoring
+1345-GKDZZ,2024-11-11,monthly,6,19.55,0.151,low,No action — keep monitoring
+2272-JKMSI,2024-12-21,annual,62,110.8,0.1509,low,No action — keep monitoring
+8410-BGQXN,2024-12-23,monthly,4,19.4,0.1495,low,No action — keep monitoring
+4526-ZJJTM,2024-12-16,monthly,25,88.4,0.149,low,No action — keep monitoring
+9029-FEGVJ,2024-11-28,monthly,32,79.3,0.1482,low,No action — keep monitoring
+1038-RQOST,2024-11-20,monthly,19,20.6,0.1482,low,No action — keep monitoring
+9129-UXERG,2024-11-28,monthly,18,103.6,0.1459,low,No action — keep monitoring
+8099-MZPUJ,2024-12-13,biennial,48,111.8,0.1452,low,No action — keep monitoring
+8652-YHIYU,2024-12-27,annual,16,79.5,0.1449,low,No action — keep monitoring
+5478-JJVZK,2024-11-16,monthly,33,60.9,0.1441,low,No action — keep monitoring
+9184-GALIL,2024-12-29,monthly,38,20.45,0.144,low,No action — keep monitoring
+1658-XUHBX,2024-12-30,monthly,59,88.75,0.1437,low,No action — keep monitoring
+5019-GQVCR,2024-11-23,monthly,43,84.85,0.1437,low,No action — keep monitoring
+4238-HFHSN,2024-11-05,monthly,61,82.15,0.1436,low,No action — keep monitoring
+6897-UUBNU,2024-11-16,monthly,29,89.65,0.1435,low,No action — keep monitoring
+9644-KVCNC,2024-12-15,annual,66,92.15,0.1434,low,No action — keep monitoring
+4054-CUMIA,2024-11-26,monthly,18,20.25,0.143,low,No action — keep monitoring
+9633-DENPU,2024-12-12,monthly,47,58.6,0.1429,low,No action — keep monitoring
+9330-DHBFL,2024-12-06,annual,23,66.25,0.142,low,No action — keep monitoring
+0426-TIRNE,2024-12-06,monthly,1,20.9,0.1416,low,No action — keep monitoring
+9139-TWBAS,2024-11-22,annual,26,47.85,0.1416,low,No action — keep monitoring
+4283-IVYCI,2024-12-05,monthly,9,64.95,0.1414,low,No action — keep monitoring
+6859-RKMZJ,2024-11-17,monthly,11,55.05,0.1413,low,No action — keep monitoring
+4097-YODCF,2024-11-19,annual,34,103.8,0.1409,low,No action — keep monitoring
+4199-QHJNM,2024-12-29,biennial,67,102.9,0.1402,low,No action — keep monitoring
+5271-DBYSJ,2024-12-28,monthly,11,79.15,0.1389,low,No action — keep monitoring
+2359-KLTEK,2024-11-18,monthly,41,94.9,0.138,low,No action — keep monitoring
+1336-EZFZY,2024-11-14,monthly,4,20.05,0.1373,low,No action — keep monitoring
+7128-GGCNO,2024-12-04,monthly,46,72.8,0.1373,low,No action — keep monitoring
+7504-UWHNB,2024-12-20,monthly,25,69.75,0.1372,low,No action — keep monitoring
+5985-TBABQ,2024-12-05,annual,32,74.75,0.1371,low,No action — keep monitoring
+4138-NAXED,2024-12-11,monthly,51,81.0,0.1371,low,No action — keep monitoring
+5753-QQWPW,2024-11-21,annual,28,59.9,0.1353,low,No action — keep monitoring
+8224-IVVPA,2024-11-18,monthly,27,56.7,0.1344,low,No action — keep monitoring
+2410-CIYFZ,2024-11-13,monthly,2,20.4,0.1342,low,No action — keep monitoring
+2070-XYMFH,2024-11-13,monthly,23,79.35,0.1327,low,No action — keep monitoring
+4700-UBQMV,2024-11-09,annual,21,75.9,0.1324,low,No action — keep monitoring
+1518-OMDIK,2024-12-03,monthly,33,44.55,0.1322,low,No action — keep monitoring
+9770-LXDBK,2024-11-29,monthly,3,20.4,0.1318,low,No action — keep monitoring
+9127-FHJBZ,2024-12-21,biennial,72,114.0,0.1304,low,No action — keep monitoring
+8350-NYMVI,2024-12-30,monthly,39,41.1,0.1287,low,No action — keep monitoring
+2680-XKKNJ,2024-11-14,annual,8,58.2,0.1277,low,No action — keep monitoring
+6917-IAYHD,2024-12-24,monthly,1,33.6,0.1269,low,No action — keep monitoring
+1956-YIFGE,2024-11-24,annual,22,100.05,0.1268,low,No action — keep monitoring
+0496-AHOOK,2024-12-28,annual,24,74.4,0.1261,low,No action — keep monitoring
+5321-NTRKC,2024-11-05,biennial,66,79.85,0.1259,low,No action — keep monitoring
+4801-KFYKL,2024-12-05,monthly,8,19.45,0.1235,low,No action — keep monitoring
+7471-MQPOS,2024-11-16,annual,71,72.9,0.1235,low,No action — keep monitoring
+1697-BCSHV,2024-12-14,monthly,58,66.8,0.1232,low,No action — keep monitoring
+6728-WYQBC,2024-11-29,monthly,1,20.95,0.123,low,No action — keep monitoring
+6732-FZUGP,2024-12-13,annual,47,94.9,0.1224,low,No action — keep monitoring
+2985-JUUBZ,2024-12-24,monthly,40,74.55,0.1215,low,No action — keep monitoring
+9054-FOWNV,2024-12-19,monthly,22,88.75,0.1213,low,No action — keep monitoring
+7850-VWJUU,2024-11-18,monthly,23,75.0,0.1212,low,No action — keep monitoring
+1171-TYKUR,2024-11-19,monthly,47,25.4,0.1199,low,No action — keep monitoring
+8680-CGLTP,2024-11-05,annual,29,58.75,0.1192,low,No action — keep monitoring
+2305-MRGLV,2024-11-21,monthly,28,76.55,0.1171,low,No action — keep monitoring
+5081-NWSUP,2024-11-10,annual,10,64.9,0.1168,low,No action — keep monitoring
+5161-XEUVX,2024-12-30,biennial,37,94.3,0.1167,low,No action — keep monitoring
+6988-CJEYV,2024-12-08,monthly,49,98.7,0.1163,low,No action — keep monitoring
+3470-BTGQO,2024-12-16,monthly,21,45.65,0.1157,low,No action — keep monitoring
+8123-QBNAZ,2024-12-27,monthly,36,104.5,0.1141,low,No action — keep monitoring
+2720-FVBQP,2024-11-12,monthly,6,48.95,0.1138,low,No action — keep monitoring
+0270-THENM,2024-11-11,biennial,72,69.85,0.1128,low,No action — keep monitoring
+6891-JPYFF,2024-12-15,monthly,48,105.25,0.1127,low,No action — keep monitoring
+2400-FEQME,2024-12-15,biennial,55,20.5,0.1126,low,No action — keep monitoring
+0014-BMAQU,2024-12-06,biennial,63,84.65,0.1125,low,No action — keep monitoring
+3705-RHRFR,2024-11-30,biennial,69,99.15,0.1123,low,No action — keep monitoring
+0489-WMEMG,2024-12-20,annual,23,49.45,0.112,low,No action — keep monitoring
+2307-FYNNL,2024-12-19,biennial,65,109.05,0.1105,low,No action — keep monitoring
+1840-BIUOG,2024-11-26,annual,20,68.7,0.1105,low,No action — keep monitoring
+7542-CYDDM,2024-11-19,monthly,18,20.05,0.1103,low,No action — keep monitoring
+1004-NOZNR,2024-12-10,annual,56,94.8,0.1101,low,No action — keep monitoring
+8421-WZOOW,2024-11-22,monthly,57,95.3,0.1095,low,No action — keep monitoring
+8714-EUHJO,2024-12-26,monthly,31,91.15,0.1082,low,No action — keep monitoring
+2233-FAGXV,2024-12-13,monthly,5,24.3,0.108,low,No action — keep monitoring
+7470-DYNOE,2024-12-30,annual,53,61.1,0.1079,low,No action — keep monitoring
+2651-ZCBXV,2024-11-07,biennial,54,108.0,0.1079,low,No action — keep monitoring
+6067-NGCEU,2024-11-15,monthly,65,111.05,0.1078,low,No action — keep monitoring
+4724-WXVWF,2024-11-21,monthly,48,95.4,0.106,low,No action — keep monitoring
+8947-YRTDV,2024-11-17,annual,32,94.8,0.1057,low,No action — keep monitoring
+6959-GQEGV,2024-12-16,monthly,45,75.95,0.1057,low,No action — keep monitoring
+1552-CZCLL,2024-11-20,monthly,55,20.0,0.1056,low,No action — keep monitoring
+5199-FPUSP,2024-12-25,annual,33,34.05,0.1053,low,No action — keep monitoring
+8550-XSXUQ,2024-12-06,annual,48,70.55,0.1052,low,No action — keep monitoring
+7707-PYBBH,2024-11-18,monthly,40,61.9,0.1046,low,No action — keep monitoring
+2393-DIVAI,2024-11-07,monthly,3,20.0,0.1043,low,No action — keep monitoring
+6261-LHRTG,2024-12-01,monthly,26,54.75,0.104,low,No action — keep monitoring
+1833-TCXKK,2024-11-25,monthly,45,107.75,0.1037,low,No action — keep monitoring
+5127-BZENZ,2024-11-25,annual,56,65.2,0.1032,low,No action — keep monitoring
+0595-ITUDF,2024-12-01,monthly,64,91.8,0.1031,low,No action — keep monitoring
+9385-EHGDO,2024-12-20,biennial,35,19.85,0.1028,low,No action — keep monitoring
+9327-QSDED,2024-12-27,monthly,8,43.55,0.1027,low,No action — keep monitoring
+1091-SOZGA,2024-12-10,annual,56,99.8,0.1024,low,No action — keep monitoring
+5195-KPUNQ,2024-12-14,annual,53,96.75,0.1023,low,No action — keep monitoring
+7878-RTCZG,2024-11-22,monthly,1,19.9,0.1011,low,No action — keep monitoring
+1996-DBMUS,2024-11-17,monthly,48,70.65,0.1005,low,No action — keep monitoring
+4010-YLMVT,2024-11-17,monthly,56,106.6,0.1002,low,No action — keep monitoring
+9518-IMLHK,2024-12-17,monthly,31,72.45,0.1001,low,No action — keep monitoring
+5697-GOMBF,2024-12-16,monthly,28,35.9,0.099,low,No action — keep monitoring
+6797-UCJHZ,2024-11-25,annual,66,104.6,0.0989,low,No action — keep monitoring
+1452-XRSJV,2024-11-12,monthly,39,51.05,0.0986,low,No action — keep monitoring
+3662-FXJFO,2024-12-01,biennial,54,20.5,0.098,low,No action — keep monitoring
+1370-GGAWX,2024-12-04,annual,46,94.15,0.0962,low,No action — keep monitoring
+6439-PKTRR,2024-12-27,biennial,70,80.7,0.0961,low,No action — keep monitoring
+5285-MVEHD,2024-12-05,annual,56,105.6,0.096,low,No action — keep monitoring
+6705-LNMDD,2024-11-21,monthly,20,50.0,0.0957,low,No action — keep monitoring
+1169-SAOCL,2024-11-05,annual,49,106.65,0.0953,low,No action — keep monitoring
+7407-SUJIZ,2024-12-01,monthly,25,20.6,0.094,low,No action — keep monitoring
+8591-NXRCV,2024-12-28,monthly,41,74.65,0.093,low,No action — keep monitoring
+4981-FLTMF,2024-11-14,monthly,57,65.2,0.0924,low,No action — keep monitoring
+6904-JLBGY,2024-11-11,biennial,72,117.35,0.0911,low,No action — keep monitoring
+4316-XCSLJ,2024-11-21,monthly,17,50.3,0.0896,low,No action — keep monitoring
+7310-EGVHZ,2024-12-16,monthly,1,20.2,0.088,low,No action — keep monitoring
+4257-GAESD,2024-12-01,monthly,6,45.0,0.0876,low,No action — keep monitoring
+2931-XIQBR,2024-11-13,annual,50,103.05,0.087,low,No action — keep monitoring
+4397-FRLTA,2024-12-09,monthly,4,20.15,0.0854,low,No action — keep monitoring
+5149-TGWDZ,2024-11-08,annual,21,104.55,0.0854,low,No action — keep monitoring
+8152-UOBNY,2024-12-18,annual,50,106.8,0.0854,low,No action — keep monitoring
+1104-FEJAM,2024-11-13,monthly,28,64.4,0.0848,low,No action — keep monitoring
+2446-ZKVAF,2024-12-16,monthly,18,56.8,0.084,low,No action — keep monitoring
+8464-EETCQ,2024-12-21,biennial,57,18.8,0.0829,low,No action — keep monitoring
+1698-XFZCI,2024-12-23,annual,61,107.75,0.0829,low,No action — keep monitoring
+4182-BGSIQ,2024-12-08,monthly,10,19.8,0.0828,low,No action — keep monitoring
+5214-NLTIT,2024-12-02,biennial,72,90.8,0.0825,low,No action — keep monitoring
+4132-POCZS,2024-11-15,monthly,52,39.9,0.0824,low,No action — keep monitoring
+5624-RYAMH,2024-12-28,monthly,9,19.5,0.0823,low,No action — keep monitoring
+5146-CBVOE,2024-11-18,monthly,16,75.1,0.0822,low,No action — keep monitoring
+3129-AAQOU,2024-12-21,biennial,19,25.6,0.0813,low,No action — keep monitoring
+9681-KYGYB,2024-12-22,monthly,49,88.2,0.0807,low,No action — keep monitoring
+3055-MJDSB,2024-11-21,monthly,9,24.6,0.0807,low,No action — keep monitoring
+9308-ANMVE,2024-11-08,monthly,47,55.3,0.0806,low,No action — keep monitoring
+9028-LIHRP,2024-11-23,biennial,71,100.2,0.0805,low,No action — keep monitoring
+8627-ZYGSZ,2024-12-07,annual,47,78.9,0.0805,low,No action — keep monitoring
+2692-BUCFV,2024-11-09,monthly,29,101.45,0.08,low,No action — keep monitoring
+9053-EJUNL,2024-12-09,monthly,41,89.2,0.0798,low,No action — keep monitoring
+5343-SGUBI,2024-12-19,annual,52,80.2,0.0797,low,No action — keep monitoring
+0701-RFGFI,2024-12-01,monthly,49,95.4,0.0792,low,No action — keep monitoring
+9067-YGSCA,2024-11-13,annual,70,26.05,0.0792,low,No action — keep monitoring
+3785-NRHYR,2024-11-10,monthly,1,19.65,0.0791,low,No action — keep monitoring
+7706-DZNKK,2024-12-27,monthly,11,20.45,0.0789,low,No action — keep monitoring
+0956-ACVZC,2024-11-28,annual,54,94.1,0.0788,low,No action — keep monitoring
+1984-GPTEH,2024-11-11,monthly,29,25.15,0.0787,low,No action — keep monitoring
+3472-OAOOR,2024-12-29,monthly,19,34.95,0.0782,low,No action — keep monitoring
+3508-CFVZL,2024-12-26,biennial,71,111.3,0.0775,low,No action — keep monitoring
+5448-VWNAM,2024-12-25,monthly,19,75.9,0.0775,low,No action — keep monitoring
+3926-YZVVX,2024-12-10,annual,41,50.05,0.077,low,No action — keep monitoring
+3583-KRKMD,2024-11-25,monthly,18,75.9,0.0767,low,No action — keep monitoring
+6048-UWKAL,2024-12-21,biennial,69,105.4,0.0764,low,No action — keep monitoring
+6890-PFRQX,2024-12-13,monthly,18,69.5,0.0764,low,No action — keep monitoring
+0078-XZMHT,2024-11-12,biennial,72,85.15,0.0762,low,No action — keep monitoring
+6035-BXTTY,2024-12-20,monthly,32,54.65,0.076,low,No action — keep monitoring
+0975-UYDTX,2024-12-19,annual,26,90.1,0.0759,low,No action — keep monitoring
+3645-DEYGF,2024-12-25,monthly,1,20.75,0.0756,low,No action — keep monitoring
+6972-SNKKW,2024-12-23,monthly,6,20.0,0.0752,low,No action — keep monitoring
+1229-RCALF,2024-12-12,annual,64,115.0,0.0752,low,No action — keep monitoring
+5155-AZQPB,2024-11-18,monthly,28,49.9,0.0748,low,No action — keep monitoring
+7036-TYDEC,2024-12-06,biennial,69,104.0,0.0742,low,No action — keep monitoring
+3340-QBBFM,2024-11-08,annual,36,54.1,0.0741,low,No action — keep monitoring
+9168-INPSZ,2024-12-21,monthly,44,104.15,0.0732,low,No action — keep monitoring
+6212-ATMLK,2024-11-24,monthly,50,95.7,0.0724,low,No action — keep monitoring
+9742-XOKTS,2024-11-17,annual,67,89.55,0.072,low,No action — keep monitoring
+8755-IWJHN,2024-12-25,monthly,69,95.35,0.0719,low,No action — keep monitoring
+5918-VUKWP,2024-12-06,annual,32,20.55,0.0711,low,No action — keep monitoring
+8695-ARGXZ,2024-11-23,monthly,34,75.55,0.0703,low,No action — keep monitoring
+2075-RMJIK,2024-12-16,monthly,5,49.4,0.0698,low,No action — keep monitoring
+2750-BJLSB,2024-12-08,annual,47,103.7,0.0693,low,No action — keep monitoring
+8851-RAGOV,2024-11-21,monthly,25,71.05,0.0692,low,No action — keep monitoring
+4692-NNQRU,2024-11-16,annual,21,79.2,0.0679,low,No action — keep monitoring
+8952-WCVCD,2024-12-05,annual,41,104.45,0.0677,low,No action — keep monitoring
+6339-DKLMK,2024-11-23,monthly,13,31.65,0.0676,low,No action — keep monitoring
+5125-CNDSP,2024-11-19,annual,63,40.6,0.0676,low,No action — keep monitoring
+5844-QVTAT,2024-11-10,annual,33,58.45,0.0674,low,No action — keep monitoring
+0479-HMSWA,2024-11-05,biennial,26,105.45,0.0673,low,No action — keep monitoring
+0661-WCQNQ,2024-12-02,annual,22,56.25,0.067,low,No action — keep monitoring
+4942-VZZOM,2024-11-05,annual,64,66.15,0.0669,low,No action — keep monitoring
+1397-XKKWR,2024-12-05,annual,7,35.3,0.0668,low,No action — keep monitoring
+2931-VUVJN,2024-12-06,annual,59,94.05,0.0667,low,No action — keep monitoring
+4759-PXTAN,2024-11-19,annual,59,80.1,0.0665,low,No action — keep monitoring
+1552-TKMXS,2024-12-01,monthly,42,20.35,0.0664,low,No action — keep monitoring
+5269-NRGDP,2024-11-26,annual,42,73.15,0.0656,low,No action — keep monitoring
+7297-DVYGA,2024-12-24,annual,51,19.85,0.0652,low,No action — keep monitoring
+7868-TMWMZ,2024-11-30,biennial,60,110.0,0.064,low,No action — keep monitoring
+3137-NYQQI,2024-12-10,annual,17,64.8,0.064,low,No action — keep monitoring
+8792-AOROI,2024-12-25,biennial,8,65.5,0.0633,low,No action — keep monitoring
+9881-VCZEP,2024-12-14,monthly,25,54.1,0.0629,low,No action — keep monitoring
+2272-WUSPA,2024-11-18,biennial,72,110.75,0.0628,low,No action — keep monitoring
+3584-WKTTW,2024-12-01,annual,51,111.55,0.0622,low,No action — keep monitoring
+9691-HKOVS,2024-12-04,annual,55,90.15,0.0621,low,No action — keep monitoring
+5093-FEGLU,2024-11-05,biennial,47,19.65,0.062,low,No action — keep monitoring
+6999-CHVCF,2024-12-21,biennial,68,102.1,0.062,low,No action — keep monitoring
+6718-BDGHG,2024-12-29,annual,43,64.85,0.0619,low,No action — keep monitoring
+3128-YOVTD,2024-12-07,monthly,51,79.15,0.0617,low,No action — keep monitoring
+4304-XUMGI,2024-12-05,biennial,50,75.15,0.061,low,No action — keep monitoring
+0023-UYUPN,2024-11-26,annual,50,25.2,0.0609,low,No action — keep monitoring
+2908-ZTPNF,2024-11-11,monthly,36,34.85,0.0608,low,No action — keep monitoring
+2623-DRYAM,2024-12-15,annual,70,101.75,0.0601,low,No action — keep monitoring
+9233-PSYHO,2024-11-19,annual,45,100.15,0.0599,low,No action — keep monitoring
+0098-BOWSO,2024-12-27,monthly,27,19.4,0.0596,low,No action — keep monitoring
+6024-RUGGH,2024-12-18,biennial,72,25.2,0.0595,low,No action — keep monitoring
+1179-INLAT,2024-11-22,annual,3,19.45,0.0593,low,No action — keep monitoring
+8189-HBVRW,2024-11-24,monthly,53,90.8,0.0592,low,No action — keep monitoring
+4660-IRIBM,2024-11-18,monthly,18,87.9,0.0591,low,No action — keep monitoring
+5268-DSMNQ,2024-12-13,annual,62,97.95,0.0587,low,No action — keep monitoring
+1153-GNOLC,2024-11-16,annual,33,39.1,0.0582,low,No action — keep monitoring
+0056-EPFBG,2024-11-17,biennial,20,39.4,0.0581,low,No action — keep monitoring
+7674-YTAFD,2024-12-06,annual,33,79.95,0.0579,low,No action — keep monitoring
+5339-TJFEK,2024-12-12,monthly,62,105.5,0.0577,low,No action — keep monitoring
+9938-ZREHM,2024-11-18,annual,37,72.1,0.0572,low,No action — keep monitoring
+2190-BCXEC,2024-11-22,monthly,40,78.85,0.057,low,No action — keep monitoring
+7398-LXGYX,2024-12-23,monthly,44,84.8,0.0569,low,No action — keep monitoring
+8819-IMISP,2024-11-24,monthly,31,80.45,0.0561,low,No action — keep monitoring
+6478-HRRCZ,2024-11-21,annual,32,70.5,0.0559,low,No action — keep monitoring
+5996-NRVXR,2024-11-15,annual,40,98.15,0.0557,low,No action — keep monitoring
+7824-PANSQ,2024-12-22,monthly,58,80.65,0.0556,low,No action — keep monitoring
+8311-UEUAB,2024-12-06,biennial,67,75.5,0.0555,low,No action — keep monitoring
+2790-XUYMV,2024-11-20,annual,71,85.45,0.0554,low,No action — keep monitoring
+0330-BGYZE,2024-11-06,annual,60,102.5,0.0554,low,No action — keep monitoring
+8915-NNTRC,2024-11-05,biennial,72,107.7,0.0553,low,No action — keep monitoring
+5056-FIMPT,2024-12-24,annual,43,106.0,0.055,low,No action — keep monitoring
+4544-RXFMG,2024-11-25,annual,8,43.45,0.0546,low,No action — keep monitoring
+4872-JCVCA,2024-11-22,biennial,71,47.6,0.0543,low,No action — keep monitoring
+6013-BHCAW,2024-11-07,biennial,61,81.0,0.0541,low,No action — keep monitoring
+6598-KELSS,2024-12-18,annual,50,43.05,0.054,low,No action — keep monitoring
+4726-DLWQN,2024-12-02,monthly,50,70.35,0.0535,low,No action — keep monitoring
+2277-DJJDL,2024-11-22,monthly,60,99.0,0.0533,low,No action — keep monitoring
+0907-HQNTS,2024-11-16,biennial,70,113.0,0.0524,low,No action — keep monitoring
+0953-LGOVU,2024-12-11,monthly,12,35.5,0.052,low,No action — keep monitoring
+8849-AYPTR,2024-12-01,monthly,33,91.25,0.0518,low,No action — keep monitoring
+9432-RUVSL,2024-12-03,biennial,48,102.5,0.0511,low,No action — keep monitoring
+7169-YWAMK,2024-11-18,biennial,72,68.4,0.051,low,No action — keep monitoring
+0233-FTHAV,2024-12-05,annual,60,79.2,0.0509,low,No action — keep monitoring
+0042-JVWOJ,2024-12-01,annual,26,19.6,0.0507,low,No action — keep monitoring
+9955-QOPOY,2024-12-23,annual,69,60.8,0.0503,low,No action — keep monitoring
+1710-RCXUS,2024-11-08,annual,51,90.35,0.0502,low,No action — keep monitoring
+6543-JXSOO,2024-12-14,annual,23,57.75,0.0499,low,No action — keep monitoring
+9220-ZNKJI,2024-11-24,biennial,55,88.8,0.0497,low,No action — keep monitoring
+2085-BOJKI,2024-11-27,annual,17,96.65,0.0493,low,No action — keep monitoring
+5846-QFDFI,2024-11-25,monthly,33,88.6,0.0487,low,No action — keep monitoring
+4134-BSXLX,2024-12-24,monthly,28,60.9,0.0485,low,No action — keep monitoring
+6745-JEFZB,2024-11-23,monthly,35,91.5,0.0483,low,No action — keep monitoring
+2495-TTHBQ,2024-12-13,annual,4,20.4,0.0483,low,No action — keep monitoring
+6124-ACRHJ,2024-12-03,monthly,1,19.75,0.0483,low,No action — keep monitoring
+5310-NOOVA,2024-12-23,biennial,46,19.95,0.048,low,No action — keep monitoring
+3714-NTNFO,2024-12-01,monthly,49,84.5,0.0479,low,No action — keep monitoring
+0412-UCCNP,2024-12-20,biennial,55,59.2,0.0473,low,No action — keep monitoring
+4403-BWPAY,2024-12-25,annual,14,24.8,0.0473,low,No action — keep monitoring
+0484-JPBRU,2024-11-07,monthly,41,25.25,0.047,low,No action — keep monitoring
+9350-ZXYJC,2024-12-10,biennial,4,25.3,0.0467,low,No action — keep monitoring
+8780-YRMTT,2024-11-08,biennial,66,47.4,0.0464,low,No action — keep monitoring
+0347-UBKUZ,2024-11-08,monthly,15,19.9,0.0454,low,No action — keep monitoring
+2907-ILJBN,2024-11-30,annual,11,20.6,0.0453,low,No action — keep monitoring
+5982-FPVQN,2024-11-05,monthly,37,95.15,0.0451,low,No action — keep monitoring
+3154-CFSZG,2024-12-19,monthly,47,90.05,0.045,low,No action — keep monitoring
+6574-MCOEH,2024-12-02,annual,33,79.15,0.0442,low,No action — keep monitoring
+3503-TYDAY,2024-11-29,monthly,43,80.45,0.0437,low,No action — keep monitoring
+7647-GYYKX,2024-11-11,biennial,54,20.35,0.0434,low,No action — keep monitoring
+6609-MXJHJ,2024-12-10,biennial,30,25.1,0.0433,low,No action — keep monitoring
+9036-CSKBW,2024-12-10,annual,51,107.45,0.0428,low,No action — keep monitoring
+1543-LLLFT,2024-12-09,annual,61,98.3,0.0424,low,No action — keep monitoring
+2320-SLKMB,2024-11-17,monthly,26,44.45,0.0419,low,No action — keep monitoring
+9770-KXGQU,2024-12-03,annual,53,98.6,0.0418,low,No action — keep monitoring
+7982-VCELR,2024-12-04,monthly,36,94.8,0.0416,low,No action — keep monitoring
+9391-LMANN,2024-12-06,annual,53,95.95,0.0415,low,No action — keep monitoring
+4102-HLENU,2024-11-12,biennial,67,65.65,0.0411,low,No action — keep monitoring
+8204-TIFGJ,2024-11-16,monthly,23,20.3,0.0399,low,No action — keep monitoring
+7570-WELNY,2024-12-13,biennial,68,84.7,0.0397,low,No action — keep monitoring
+2466-NEJOJ,2024-11-18,monthly,8,19.65,0.0395,low,No action — keep monitoring
+3450-WXOAT,2024-12-19,monthly,46,45.2,0.0392,low,No action — keep monitoring
+1536-YHDOE,2024-11-28,annual,17,62.1,0.039,low,No action — keep monitoring
+7558-IMLMT,2024-12-25,biennial,67,20.8,0.039,low,No action — keep monitoring
+1971-DTCZB,2024-12-11,biennial,72,90.95,0.0387,low,No action — keep monitoring
+0178-SZBHO,2024-11-22,monthly,47,87.2,0.0383,low,No action — keep monitoring
+5275-PMFUT,2024-12-01,biennial,72,64.8,0.0382,low,No action — keep monitoring
+4334-HOWRP,2024-11-16,biennial,72,64.95,0.0381,low,No action — keep monitoring
+3410-MHHUM,2024-11-28,annual,44,94.4,0.038,low,No action — keep monitoring
+4393-OBCRR,2024-11-25,annual,3,20.25,0.0375,low,No action — keep monitoring
+1866-NXPSP,2024-11-12,annual,36,75.55,0.0374,low,No action — keep monitoring
+7110-BDTWG,2024-12-07,biennial,71,47.05,0.0366,low,No action — keep monitoring
+8819-WFGGJ,2024-11-12,biennial,68,54.1,0.0363,low,No action — keep monitoring
+9795-SHUHB,2024-11-12,biennial,66,58.2,0.0363,low,No action — keep monitoring
+1097-FSPVW,2024-11-18,monthly,42,54.55,0.0363,low,No action — keep monitoring
+8883-GRDWQ,2024-12-25,annual,20,54.0,0.0363,low,No action — keep monitoring
+8883-ANODQ,2024-11-13,biennial,68,84.4,0.0357,low,No action — keep monitoring
+9135-HSWOC,2024-12-29,biennial,64,19.7,0.0352,low,No action — keep monitoring
+8430-TWCBX,2024-11-06,annual,49,20.7,0.0349,low,No action — keep monitoring
+2316-ESMLS,2024-12-21,annual,12,33.15,0.0349,low,No action — keep monitoring
+9236-NDUCW,2024-11-09,biennial,21,35.1,0.0348,low,No action — keep monitoring
+2171-UDMFD,2024-12-05,monthly,32,19.45,0.0348,low,No action — keep monitoring
+1760-CAZHT,2024-11-11,monthly,25,20.8,0.0345,low,No action — keep monitoring
+8809-XKHMD,2024-11-25,biennial,72,100.55,0.0345,low,No action — keep monitoring
+1043-UXOVO,2024-12-01,biennial,71,113.15,0.0343,low,No action — keep monitoring
+4682-BLBUC,2024-12-24,annual,44,70.95,0.0338,low,No action — keep monitoring
+8780-RSYYU,2024-12-17,monthly,25,19.2,0.033,low,No action — keep monitoring
+1621-YNCJH,2024-11-10,biennial,36,106.05,0.0327,low,No action — keep monitoring
+3283-WCWXT,2024-11-11,biennial,6,25.4,0.0325,low,No action — keep monitoring
+8454-AATJP,2024-12-24,biennial,72,115.05,0.032,low,No action — keep monitoring
+5781-RFZRP,2024-12-24,biennial,71,73.5,0.0319,low,No action — keep monitoring
+2692-AQCPF,2024-11-13,annual,65,108.05,0.0315,low,No action — keep monitoring
+5640-CAXOA,2024-11-22,annual,30,40.35,0.0313,low,No action — keep monitoring
+2632-TACXW,2024-11-30,biennial,62,23.65,0.0311,low,No action — keep monitoring
+2890-WFBHU,2024-12-02,annual,59,79.85,0.0302,low,No action — keep monitoring
+6516-NKQBO,2024-11-29,biennial,38,81.0,0.03,low,No action — keep monitoring
+0301-FIDRB,2024-12-10,biennial,72,63.8,0.0299,low,No action — keep monitoring
+2235-EZAIK,2024-12-26,biennial,72,79.2,0.0298,low,No action — keep monitoring
+1722-LDZJS,2024-11-18,annual,53,20.2,0.0291,low,No action — keep monitoring
+6352-GIGGQ,2024-11-20,annual,67,88.8,0.0291,low,No action — keep monitoring
+1306-RPWXZ,2024-12-23,biennial,49,20.45,0.029,low,No action — keep monitoring
+8338-QIUNR,2024-11-12,biennial,72,66.5,0.0288,low,No action — keep monitoring
+4806-DXQCE,2024-11-05,biennial,70,113.65,0.0286,low,No action — keep monitoring
+7021-XSNYE,2024-11-22,biennial,7,49.65,0.0283,low,No action — keep monitoring
+8097-OMULG,2024-11-19,annual,59,76.75,0.0282,low,No action — keep monitoring
+1934-MKPXS,2024-11-19,annual,33,20.1,0.028,low,No action — keep monitoring
+7107-UBYKY,2024-12-06,monthly,35,25.75,0.028,low,No action — keep monitoring
+6100-FJZDG,2024-12-09,annual,26,20.05,0.0279,low,No action — keep monitoring
+3740-RLMVT,2024-12-08,annual,67,60.95,0.0277,low,No action — keep monitoring
+9610-WCESF,2024-12-09,biennial,67,43.9,0.0274,low,No action — keep monitoring
+2817-LVCPP,2024-11-26,biennial,50,19.4,0.0272,low,No action — keep monitoring
+0661-KBKPA,2024-12-17,annual,53,78.75,0.0269,low,No action — keep monitoring
+6723-CEGQI,2024-11-20,biennial,65,45.25,0.0267,low,No action — keep monitoring
+8231-BSWXX,2024-12-13,annual,71,79.05,0.0259,low,No action — keep monitoring
+1492-QGCLU,2024-12-30,monthly,53,85.7,0.0255,low,No action — keep monitoring
+6061-GWWAV,2024-11-26,annual,41,70.2,0.0254,low,No action — keep monitoring
+4973-RLZVI,2024-12-29,annual,30,74.65,0.0253,low,No action — keep monitoring
+1053-MXTTK,2024-12-25,biennial,72,108.65,0.0252,low,No action — keep monitoring
+1972-XMUWV,2024-12-04,biennial,65,59.8,0.0246,low,No action — keep monitoring
+5857-XRECV,2024-11-15,annual,2,20.5,0.0241,low,No action — keep monitoring
+5110-CHOPY,2024-12-12,biennial,60,53.6,0.0235,low,No action — keep monitoring
+5816-JMLGY,2024-12-09,biennial,70,80.4,0.0231,low,No action — keep monitoring
+0345-XMMUG,2024-12-03,biennial,46,108.9,0.023,low,No action — keep monitoring
+1088-AUUZZ,2024-12-09,biennial,56,75.85,0.0229,low,No action — keep monitoring
+5117-ZSMHQ,2024-12-20,biennial,71,89.9,0.0227,low,No action — keep monitoring
+0301-KOBTQ,2024-11-06,biennial,32,20.05,0.0226,low,No action — keep monitoring
+6176-YJWAS,2024-12-22,biennial,72,97.95,0.0226,low,No action — keep monitoring
+1734-ZMNTZ,2024-12-07,biennial,11,25.0,0.0226,low,No action — keep monitoring
+2808-CHTDM,2024-12-23,biennial,23,25.1,0.0221,low,No action — keep monitoring
+8571-ZCMCX,2024-12-08,biennial,47,60.0,0.0219,low,No action — keep monitoring
+8313-AFGBW,2024-11-12,biennial,47,73.6,0.0219,low,No action — keep monitoring
+1222-KJNZD,2024-12-15,monthly,40,20.4,0.0214,low,No action — keep monitoring
+4531-AUZNK,2024-11-06,annual,51,95.15,0.0212,low,No action — keep monitoring
+9677-AVKED,2024-12-28,annual,53,84.6,0.021,low,No action — keep monitoring
+9227-UAQFT,2024-11-27,biennial,16,19.75,0.021,low,No action — keep monitoring
+5320-BRKGK,2024-11-09,biennial,58,75.8,0.0209,low,No action — keep monitoring
+5397-TUPSH,2024-11-06,annual,65,70.95,0.0208,low,No action — keep monitoring
+1841-YSJGV,2024-12-06,biennial,72,109.95,0.0208,low,No action — keep monitoring
+0813-TAXXS,2024-12-04,biennial,55,77.8,0.0206,low,No action — keep monitoring
+8821-KVZKQ,2024-11-17,annual,70,58.4,0.0205,low,No action — keep monitoring
+8374-UULRV,2024-11-10,biennial,72,86.05,0.0205,low,No action — keep monitoring
+0254-KCJGT,2024-11-28,annual,52,81.4,0.0203,low,No action — keep monitoring
+5505-OVWQW,2024-12-02,annual,17,20.15,0.02,low,No action — keep monitoring
+2017-CCBLH,2024-12-05,biennial,8,20.0,0.0199,low,No action — keep monitoring
+0129-QMPDR,2024-12-08,annual,44,20.5,0.0199,low,No action — keep monitoring
+8173-RXAYP,2024-12-21,biennial,24,19.7,0.0198,low,No action — keep monitoring
+6161-ERDGD,2024-11-22,annual,71,85.45,0.0197,low,No action — keep monitoring
+3823-KYNQY,2024-11-06,annual,12,24.95,0.0194,low,No action — keep monitoring
+2746-DIJLO,2024-11-15,annual,41,56.3,0.0194,low,No action — keep monitoring
+3115-CZMZD,2024-12-15,biennial,0,20.25,0.0193,low,No action — keep monitoring
+8007-YYPWD,2024-12-27,biennial,15,25.05,0.0192,low,No action — keep monitoring
+6900-RBKER,2024-11-17,biennial,52,89.45,0.0191,low,No action — keep monitoring
+9309-BZGNT,2024-11-27,annual,69,29.8,0.019,low,No action — keep monitoring
+4573-JKNAE,2024-11-13,biennial,12,19.35,0.0189,low,No action — keep monitoring
+3938-YFPXD,2024-11-23,biennial,72,84.3,0.0188,low,No action — keep monitoring
+4451-RWASJ,2024-12-18,annual,15,19.5,0.0185,low,No action — keep monitoring
+0902-RFHOF,2024-11-10,annual,38,20.1,0.0184,low,No action — keep monitoring
+8441-SHIPE,2024-11-08,biennial,67,25.6,0.0179,low,No action — keep monitoring
+4825-FUREZ,2024-11-22,biennial,42,20.25,0.0178,low,No action — keep monitoring
+6762-QVYJO,2024-12-05,biennial,58,59.75,0.0177,low,No action — keep monitoring
+4598-ZADCK,2024-12-10,annual,53,53.6,0.0171,low,No action — keep monitoring
+4178-EGMON,2024-11-24,biennial,70,88.0,0.0169,low,No action — keep monitoring
+1930-QPBVZ,2024-12-17,biennial,68,95.1,0.0168,low,No action — keep monitoring
+6933-VLYFX,2024-12-14,annual,31,59.95,0.0168,low,No action — keep monitoring
+4742-TXUEX,2024-11-21,biennial,47,19.3,0.0166,low,No action — keep monitoring
+2088-IEBAU,2024-11-21,biennial,68,88.15,0.0165,low,No action — keep monitoring
+1429-UYJSV,2024-11-18,annual,12,19.7,0.0165,low,No action — keep monitoring
+3486-NPGST,2024-12-03,annual,36,19.55,0.0165,low,No action — keep monitoring
+9695-IDRZR,2024-12-18,biennial,34,116.15,0.0162,low,No action — keep monitoring
+9617-UDPEU,2024-11-17,annual,22,19.25,0.0161,low,No action — keep monitoring
+7156-MXBJE,2024-12-03,annual,43,85.1,0.016,low,No action — keep monitoring
+6440-DKQGE,2024-12-17,annual,30,64.5,0.0159,low,No action — keep monitoring
+4518-FZBSX,2024-11-23,annual,42,20.25,0.0159,low,No action — keep monitoring
+9589-ABEPT,2024-11-12,biennial,69,92.45,0.0154,low,No action — keep monitoring
+6000-UKLWI,2024-12-16,biennial,41,20.15,0.015,low,No action — keep monitoring
+8747-UDCOI,2024-12-18,biennial,65,19.35,0.0149,low,No action — keep monitoring
+6878-GGDWG,2024-12-04,monthly,32,19.4,0.0146,low,No action — keep monitoring
+2266-FUBDZ,2024-12-19,biennial,15,19.35,0.0146,low,No action — keep monitoring
+4940-KHCWD,2024-11-18,biennial,60,37.7,0.0146,low,No action — keep monitoring
+2995-YWTCD,2024-12-10,biennial,19,24.9,0.0145,low,No action — keep monitoring
+8067-NIOYM,2024-12-05,biennial,24,21.1,0.0145,low,No action — keep monitoring
+6479-VDGRK,2024-11-08,biennial,72,85.3,0.0144,low,No action — keep monitoring
+2892-GESUL,2024-12-25,biennial,18,19.35,0.0143,low,No action — keep monitoring
+2296-DKZFP,2024-12-02,biennial,65,71.0,0.0142,low,No action — keep monitoring
+9086-YJYXS,2024-12-11,annual,34,77.2,0.0139,low,No action — keep monitoring
+2252-NKNSI,2024-11-22,biennial,52,85.15,0.0137,low,No action — keep monitoring
+8606-OEGQZ,2024-12-18,biennial,18,25.3,0.0136,low,No action — keep monitoring
+9225-BZLNZ,2024-11-06,biennial,72,85.25,0.0133,low,No action — keep monitoring
+8510-BBWMU,2024-12-19,annual,41,19.75,0.0132,low,No action — keep monitoring
+5338-YHWYT,2024-12-17,biennial,37,61.45,0.0127,low,No action — keep monitoring
+5442-PPTJY,2024-12-07,biennial,12,19.7,0.0126,low,No action — keep monitoring
+8884-MRNSU,2024-12-14,annual,17,19.9,0.0125,low,No action — keep monitoring
+1498-NHTLT,2024-12-02,biennial,59,86.75,0.0124,low,No action — keep monitoring
+1814-WFGVS,2024-11-08,biennial,72,48.9,0.0122,low,No action — keep monitoring
+3721-CNZHX,2024-12-13,annual,15,19.8,0.0119,low,No action — keep monitoring
+9762-YAQAA,2024-12-19,annual,39,81.4,0.0117,low,No action — keep monitoring
+2126-GSEGL,2024-12-20,biennial,70,84.8,0.0116,low,No action — keep monitoring
+6827-IEAUQ,2024-12-15,annual,27,66.15,0.0115,low,No action — keep monitoring
+3721-WKIIL,2024-11-29,biennial,27,19.6,0.0114,low,No action — keep monitoring
+8259-DZLIZ,2024-11-14,annual,64,53.85,0.0114,low,No action — keep monitoring
+6195-MELTI,2024-11-24,annual,57,54.65,0.0113,low,No action — keep monitoring
+4006-HKYHO,2024-12-04,biennial,63,86.7,0.0112,low,No action — keep monitoring
+7996-MHXLW,2024-11-30,biennial,66,25.15,0.0111,low,No action — keep monitoring
+3174-AKMAS,2024-11-16,biennial,46,64.2,0.011,low,No action — keep monitoring
+0533-UCAAU,2024-11-29,annual,57,71.1,0.0108,low,No action — keep monitoring
+9847-HNVGP,2024-12-10,annual,17,19.95,0.0107,low,No action — keep monitoring
+3569-JFODW,2024-11-07,biennial,72,90.95,0.0105,low,No action — keep monitoring
+2649-HWLYB,2024-12-28,biennial,65,76.15,0.0104,low,No action — keep monitoring
+1371-OJCEK,2024-11-10,annual,48,24.35,0.0104,low,No action — keep monitoring
+4877-TSOFF,2024-11-07,annual,55,75.75,0.0102,low,No action — keep monitoring
+7850-THJMU,2024-12-25,biennial,26,19.65,0.01,low,No action — keep monitoring
+8727-XDPUD,2024-12-28,biennial,37,35.8,0.0099,low,No action — keep monitoring
+2065-MMKGR,2024-11-16,annual,29,71.0,0.0099,low,No action — keep monitoring
+8606-CIQUL,2024-11-09,biennial,72,115.75,0.0096,low,No action — keep monitoring
+3474-BAFSJ,2024-11-19,biennial,57,57.5,0.0094,low,No action — keep monitoring
+1221-GHZEP,2024-12-07,biennial,62,65.1,0.0094,low,No action — keep monitoring
+5446-DKWYW,2024-12-18,annual,61,65.2,0.0092,low,No action — keep monitoring
+4654-ULTTN,2024-12-19,biennial,70,74.8,0.0091,low,No action — keep monitoring
+4312-KFRXN,2024-12-18,biennial,72,25.4,0.0091,low,No action — keep monitoring
+3807-BPOMJ,2024-12-30,annual,55,94.75,0.0088,low,No action — keep monitoring
+3146-MSEGF,2024-11-24,biennial,72,88.05,0.0087,low,No action — keep monitoring
+3779-OSWCF,2024-11-23,biennial,71,93.2,0.0083,low,No action — keep monitoring
+7306-YDSOI,2024-11-15,biennial,69,59.75,0.0083,low,No action — keep monitoring
+2324-AALNO,2024-12-09,annual,48,24.55,0.0083,low,No action — keep monitoring
+5980-BDHPY,2024-11-09,biennial,72,87.1,0.0082,low,No action — keep monitoring
+5676-CFLYY,2024-11-17,biennial,71,73.35,0.0082,low,No action — keep monitoring
+6725-TPKJO,2024-11-05,biennial,44,20.05,0.008,low,No action — keep monitoring
+2027-DNKIV,2024-11-17,annual,37,58.75,0.008,low,No action — keep monitoring
+8857-CUPFQ,2024-12-02,biennial,63,19.25,0.0077,low,No action — keep monitoring
+1422-DGUBX,2024-11-14,annual,32,79.25,0.0075,low,No action — keep monitoring
+1265-ZFOSD,2024-12-01,biennial,64,81.3,0.0075,low,No action — keep monitoring
+1619-YWUBB,2024-11-10,biennial,68,24.95,0.0074,low,No action — keep monitoring
+3978-YNKDD,2024-12-26,biennial,19,20.85,0.0074,low,No action — keep monitoring
+4817-KEQSP,2024-12-24,biennial,71,19.85,0.0073,low,No action — keep monitoring
+8908-NMQTX,2024-12-29,biennial,72,65.6,0.0072,low,No action — keep monitoring
+1089-XZWHH,2024-12-24,biennial,24,19.7,0.0071,low,No action — keep monitoring
+4635-EJYPD,2024-11-10,biennial,32,18.95,0.007,low,No action — keep monitoring
+5993-JSUWV,2024-12-30,biennial,66,61.15,0.007,low,No action — keep monitoring
+6729-FZWSY,2024-12-26,annual,67,19.45,0.0069,low,No action — keep monitoring
+3284-SVCRO,2024-12-21,biennial,45,25.5,0.0069,low,No action — keep monitoring
+5465-BUBFA,2024-12-07,biennial,41,19.3,0.0068,low,No action — keep monitoring
+7131-ZQZNK,2024-11-19,biennial,60,59.85,0.0067,low,No action — keep monitoring
+5519-TEEUH,2024-11-20,annual,33,20.15,0.0067,low,No action — keep monitoring
+0936-NQLJU,2024-11-22,biennial,41,20.65,0.0063,low,No action — keep monitoring
+7216-KAOID,2024-11-23,annual,41,19.5,0.0062,low,No action — keep monitoring
+3638-VBZTA,2024-12-22,biennial,68,86.5,0.0062,low,No action — keep monitoring
+4452-ROHMO,2024-11-19,biennial,15,19.6,0.0062,low,No action — keep monitoring
+9258-CNWAC,2024-11-18,biennial,71,113.65,0.0061,low,No action — keep monitoring
+7515-LODFU,2024-11-23,biennial,69,20.3,0.0061,low,No action — keep monitoring
+7688-AWMDX,2024-12-25,biennial,71,54.5,0.006,low,No action — keep monitoring
+8046-DNVTL,2024-12-05,biennial,62,38.6,0.006,low,No action — keep monitoring
+0048-PIHNL,2024-11-13,annual,49,20.45,0.0059,low,No action — keep monitoring
+2729-VNVAP,2024-11-27,biennial,33,19.8,0.0059,low,No action — keep monitoring
+0854-UYHZD,2024-12-20,biennial,13,19.55,0.0058,low,No action — keep monitoring
+4565-EVZMJ,2024-11-08,annual,47,58.9,0.0058,low,No action — keep monitoring
+0531-XBKMM,2024-11-27,biennial,66,65.7,0.0056,low,No action — keep monitoring
+7033-CLAMM,2024-11-27,biennial,48,20.2,0.0053,low,No action — keep monitoring
+3884-UEBXB,2024-11-26,biennial,67,36.15,0.0052,low,No action — keep monitoring
+0454-OKRCT,2024-12-07,biennial,33,80.6,0.0052,low,No action — keep monitoring
+5124-EOGYE,2024-12-07,biennial,31,20.45,0.0049,low,No action — keep monitoring
+6518-KZXCB,2024-12-08,biennial,22,25.25,0.0049,low,No action — keep monitoring
+7089-RKVSZ,2024-12-04,annual,8,24.4,0.0048,low,No action — keep monitoring
+1337-BOZWO,2024-12-25,annual,18,46.4,0.0048,low,No action — keep monitoring
+2274-XUATA,2024-11-19,biennial,72,63.1,0.0047,low,No action — keep monitoring
+7632-YUTXB,2024-11-12,annual,25,20.05,0.0047,low,No action — keep monitoring
+5170-PTRKA,2024-11-30,annual,49,35.8,0.0046,low,No action — keep monitoring
+7975-JMZNT,2024-11-08,biennial,66,91.7,0.0046,low,No action — keep monitoring
+4018-PPNDW,2024-11-24,biennial,61,24.1,0.0045,low,No action — keep monitoring
+3777-XROBG,2024-12-16,biennial,58,19.55,0.0045,low,No action — keep monitoring
+5803-NQJZO,2024-11-21,biennial,72,67.8,0.0045,low,No action — keep monitoring
+8749-TZYEC,2024-11-11,biennial,72,24.8,0.0044,low,No action — keep monitoring
+8966-SNIZF,2024-12-11,biennial,70,19.45,0.0043,low,No action — keep monitoring
+4957-SREEC,2024-12-19,biennial,70,20.35,0.0042,low,No action — keep monitoring
+1248-DYXUB,2024-11-26,biennial,52,24.8,0.0041,low,No action — keep monitoring
+8327-WKMIE,2024-11-17,annual,37,20.15,0.004,low,No action — keep monitoring
+0042-RLHYP,2024-12-15,biennial,69,19.7,0.0038,low,No action — keep monitoring
+6481-LXPWL,2024-11-23,annual,56,36.1,0.0038,low,No action — keep monitoring
+4915-BFSXL,2024-11-06,biennial,70,68.95,0.0038,low,No action — keep monitoring
+2121-JAFOM,2024-12-19,biennial,72,115.55,0.0038,low,No action — keep monitoring
+4707-YNOQA,2024-12-27,annual,34,25.6,0.0037,low,No action — keep monitoring
+0048-LUMLS,2024-12-25,annual,37,91.2,0.0035,low,No action — keep monitoring
+6203-HBZPA,2024-12-26,biennial,52,63.9,0.0035,low,No action — keep monitoring
+4656-CAURT,2024-11-22,biennial,69,23.95,0.0034,low,No action — keep monitoring
+3967-KXAPS,2024-12-06,biennial,72,92.3,0.0031,low,No action — keep monitoring
+0835-DUUIQ,2024-12-12,annual,24,21.05,0.0031,low,No action — keep monitoring
+6348-SNFUS,2024-12-17,biennial,72,55.45,0.0031,low,No action — keep monitoring
+2040-XBAVJ,2024-12-26,biennial,72,114.45,0.0028,low,No action — keep monitoring
+7399-QHBJS,2024-12-14,biennial,72,66.75,0.0028,low,No action — keep monitoring
+5044-XDPYX,2024-11-25,biennial,51,25.5,0.0026,low,No action — keep monitoring
+5346-BZCHP,2024-12-04,biennial,69,19.4,0.0026,low,No action — keep monitoring
+3457-PQBYH,2024-11-22,biennial,58,20.3,0.0026,low,No action — keep monitoring
+9500-WBGRP,2024-12-12,biennial,69,19.1,0.0025,low,No action — keep monitoring
+9499-XPZXM,2024-12-18,biennial,72,64.75,0.0024,low,No action — keep monitoring
+8780-IHCRN,2024-11-19,biennial,63,24.65,0.0024,low,No action — keep monitoring
+4057-FKCZK,2024-11-12,biennial,58,82.5,0.0023,low,No action — keep monitoring
+7416-CKTEP,2024-12-01,biennial,57,19.6,0.0022,low,No action — keep monitoring
+7061-OVMIM,2024-11-23,annual,30,19.55,0.0022,low,No action — keep monitoring
+1830-IPXVJ,2024-12-20,biennial,61,19.75,0.0022,low,No action — keep monitoring
+6425-JWTDV,2024-11-24,biennial,48,19.25,0.0021,low,No action — keep monitoring
+8043-PNYSD,2024-11-18,biennial,63,19.55,0.0021,low,No action — keep monitoring
+2226-ICFDO,2024-12-29,biennial,72,85.9,0.0018,low,No action — keep monitoring
+6898-RBTLU,2024-11-30,biennial,49,79.3,0.0018,low,No action — keep monitoring
+1291-CUOCY,2024-11-13,biennial,72,110.6,0.0018,low,No action — keep monitoring
+4676-WLUHT,2024-12-01,biennial,54,46.2,0.0017,low,No action — keep monitoring
+1092-WPIVQ,2024-12-08,biennial,18,25.1,0.0017,low,No action — keep monitoring
+0621-TSSMU,2024-11-15,annual,56,19.95,0.0016,low,No action — keep monitoring
+1591-XWLGB,2024-12-13,biennial,71,19.85,0.0015,low,No action — keep monitoring
+9916-AYHTC,2024-12-04,biennial,48,19.85,0.0011,low,No action — keep monitoring
+9593-CVZKR,2024-11-09,biennial,56,24.45,0.001,low,No action — keep monitoring
+6188-UXBBR,2024-11-29,annual,38,20.25,0.0009,low,No action — keep monitoring
+1459-QNFQT,2024-12-13,biennial,70,59.5,0.0009,low,No action — keep monitoring
+0704-VCUMB,2024-11-19,biennial,61,20.25,0.0007,low,No action — keep monitoring
+5793-YOLJN,2024-12-13,biennial,55,21.0,0.0007,low,No action — keep monitoring
+1568-BEKZM,2024-11-27,biennial,70,90.05,0.0007,low,No action — keep monitoring
+9150-KPBJQ,2024-11-12,biennial,6,19.65,0.0006,low,No action — keep monitoring
+2626-VEEWG,2024-11-07,biennial,67,19.4,0.0006,low,No action — keep monitoring
+9153-BTBVV,2024-12-25,biennial,71,25.0,0.0006,low,No action — keep monitoring
+5457-COLHT,2024-12-17,biennial,69,80.65,0.0005,low,No action — keep monitoring
+3279-DYZQM,2024-12-03,biennial,71,19.45,0.0005,low,No action — keep monitoring
+6848-HJTXY,2024-12-19,biennial,64,19.45,0.0005,low,No action — keep monitoring
+1635-NZATJ,2024-12-24,biennial,71,25.45,0.0004,low,No action — keep monitoring
+4979-HPRFL,2024-12-17,biennial,56,24.15,0.0004,low,No action — keep monitoring
+7274-CGTOD,2024-11-25,biennial,62,43.7,0.0002,low,No action — keep monitoring
+5804-JMYIO,2024-12-08,biennial,39,19.75,0.0001,low,No action — keep monitoring
+0277-ORXQS,2024-12-14,biennial,66,50.55,0.0001,low,No action — keep monitoring
+8917-SZTTJ,2024-12-23,biennial,60,19.65,0.0,low,No action — keep monitoring
+9102-OXKFY,2024-12-12,biennial,59,54.15,0.0,low,No action — keep monitoring
+4735-BJKOU,2024-11-10,biennial,40,20.15,0.0,low,No action — keep monitoring
+9114-DPSIA,2024-12-20,biennial,72,81.0,0.0,low,No action — keep monitoring
+6701-DHKWQ,2024-11-06,biennial,61,51.35,0.0,low,No action — keep monitoring
+8165-CBKXO,2024-11-10,biennial,66,56.75,0.0,low,No action — keep monitoring

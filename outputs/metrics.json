@@ -1,0 +1,30 @@
+{
+  "results": [
+    {
+      "model": "logreg",
+      "threshold": 0.523,
+      "f2": 0.559,
+      "auc": 0.943,
+      "recall": 0.865,
+      "precision": 0.232
+    },
+    {
+      "model": "random_forest",
+      "threshold": 0.331,
+      "f2": 0.576,
+      "auc": 0.933,
+      "recall": 0.838,
+      "precision": 0.256
+    },
+    {
+      "model": "xgboost",
+      "threshold": 0.275,
+      "f2": 0.531,
+      "auc": 0.932,
+      "recall": 0.784,
+      "precision": 0.232
+    }
+  ],
+  "best": "random_forest",
+  "test_churn_rate": 0.0453
+}

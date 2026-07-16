@@ -329,29 +329,29 @@ function fitImg(s, path, bx, by, bw, bh) {
 {
   const s = slide();
   head(s, "Live demo", "Query the trained model in real time");
-  card(s, 0.6, 2.05, 7.7, 4.7, "FFFFFF");
-  fitImg(s, "presentation/assets/demo_high.png", 0.7, 2.15, 7.5, 4.5);
 
-  const nx = 8.5, nw = 4.23;
-  const steps = [
-    ["Enter a customer", "Profile, subscription and 30-day engagement."],
-    ["Model responds", "Churn probability + risk tier + suggested action."],
-    ["See the why", "Top SHAP drivers behind the score."],
+  const cw = 5.95, ly = 2.35, ch = 3.25;
+  const cols = [
+    ["demo_high_crop.png", "At-risk customer", "94.9% · HIGH RISK", C.coral, 0.6],
+    ["demo_low_crop.png", "Loyal customer", "1.1% · LOW RISK", C.green, 6.78],
   ];
-  steps.forEach((st, i) => {
-    const y = 2.15 + i * 1.15;
-    s.addShape(p.ShapeType.roundRect, { x: nx, y, w: 0.5, h: 0.5, rectRadius: 0.25,
-      fill: { color: C.coral, transparency: 75 }, line: { type: "none" } });
-    s.addText(String(i + 1), { x: nx, y, w: 0.5, h: 0.5, align: "center", fontFace: FH, fontSize: 18, bold: true, color: C.coral, margin: 0 });
-    s.addText(st[0], { x: nx + 0.7, y: y - 0.05, w: nw - 0.7, h: 0.4, fontFace: FH, fontSize: 16, bold: true, color: C.txt, margin: 0 });
-    s.addText(st[1], { x: nx + 0.7, y: y + 0.33, w: nw - 0.7, h: 0.7, fontFace: FB, fontSize: 12.5, color: C.muted, margin: 0 });
+  cols.forEach(([img, label, verdict, color, x]) => {
+    s.addText([
+      { text: label + "  ", options: { bold: true, color: C.txt } },
+      { text: "→ " + verdict, options: { bold: true, color } },
+    ], { x, y: 1.85, w: cw, h: 0.4, fontFace: FB, fontSize: 15, margin: 0 });
+    card(s, x, ly, cw, ch, "FFFFFF");
+    fitImg(s, "presentation/assets/" + img, x + 0.12, ly + 0.12, cw - 0.24, ch - 0.24);
   });
-  card(s, nx, 5.7, nw, 1.05, C.card2);
+
+  card(s, 0.6, 5.85, 12.13, 1.05, C.card2);
   s.addText([
-    { text: "Run it locally\n", options: { bold: true, color: C.accent, breakLine: true } },
-    { text: "python app.py  →  localhost:5000", options: { color: C.soft, fontFace: "Consolas" } },
-  ], { x: nx + 0.25, y: 5.72, w: nw - 0.5, h: 1.0, valign: "middle", fontFace: FB, fontSize: 13, margin: 0 });
-  s.addNotes("Now the live demo. This is the actual trained model served by a small Flask app. I load an at-risk customer, the model returns 94.9% churn, high risk, the suggested action, and the SHAP drivers behind it. Then I'll load a loyal customer to show a low-risk case.");
+    { text: "How it works:  ", options: { bold: true, color: C.accent } },
+    { text: "enter a customer → the model returns churn probability, a risk tier and a suggested action, with the top SHAP drivers explaining why.        ", options: { color: C.soft } },
+    { text: "Run:  ", options: { bold: true, color: C.gold } },
+    { text: "python app.py → localhost:5000", options: { color: C.soft, fontFace: "Consolas" } },
+  ], { x: 0.9, y: 5.85, w: 11.5, h: 1.05, valign: "middle", fontFace: FB, fontSize: 13.5, margin: 0 });
+  s.addNotes("Now the live demo — the actual trained model served by a small Flask app. On the left, an at-risk customer: 94.9% churn, high risk, with the action and the SHAP drivers. On the right, a loyal customer: 1.1%, low risk, drivers pushing toward staying. I'll reproduce both live in the app.");
 }
 
 // ---------- 11. CONCLUSION ----------

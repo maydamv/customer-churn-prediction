@@ -144,6 +144,9 @@ async function predict(){
   render(d);
 }
 
+const _p = new URLSearchParams(location.search).get('auto');
+if(_p){ window.addEventListener('load', ()=>{ preset(_p); predict(); }); }
+
 function render(d){
   const c=TIER_COLOR[d.risk_tier];
   const maxAbs=Math.max(...d.drivers.map(x=>Math.abs(x.impact)),1e-6);

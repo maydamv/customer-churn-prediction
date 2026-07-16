@@ -60,6 +60,15 @@ python app.py   # http://127.0.0.1:5000
 ```
 Use the **at-risk** / **loyal** example buttons to see a high- vs low-risk prediction.
 
+| At-risk customer | Loyal customer |
+|---|---|
+| ![At-risk prediction](presentation/assets/demo_high.png) | ![Loyal prediction](presentation/assets/demo_low.png) |
+
+**Backend:** [`app.py`](app.py) is a small Flask API — it loads the trained
+`outputs/model.joblib`, serves the form at `/`, and answers `POST /predict` with
+the churn probability, risk tier, suggested action and top SHAP drivers.
+Frontend: [`templates/index.html`](templates/index.html).
+
 ## Layout
 ```
 data/raw|processed   • src/*.py   • outputs/ (metrics, model, scores, figures)

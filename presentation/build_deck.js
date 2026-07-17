@@ -161,7 +161,7 @@ function fitImg(s, path, bx, by, bw, bh) {
     ["Secondary", "AUC for overall discriminative power"],
     ["Validation", "Time-based split — train on the past, test on the future (no data leakage)"],
   ];
-  const by = 2.05, rh = 0.78, x = 0.6, w = 12.13;
+  const by = 2.05, rh = 0.62, x = 0.6, w = 12.13;
   rows.forEach((r, i) => {
     const y = by + i * (rh + 0.03);
     card(s, x, y, w, rh, i % 2 ? C.card : C.card2);
@@ -170,7 +170,15 @@ function fitImg(s, path, bx, by, bw, bh) {
     s.addText(r[1], { x: x + 3.3, y, w: w - 3.6, h: rh, valign: "middle",
       fontFace: FB, fontSize: 15, color: C.soft, margin: 0 });
   });
-  s.addNotes("Formally: supervised binary classification. Target is whether a customer cancels within 30 days. We optimise F2 because recall matters more than precision here, and we validate on a time-based split to mimic production and avoid leakage.");
+  const fy = by + rows.length * (rh + 0.03) + 0.15;
+  card(s, x, fy, w, 0.95, C.card2);
+  s.addText([
+    { text: "Why F2?  ", options: { bold: true, color: C.gold } },
+    { text: "F2 blends recall and precision but weights ", options: { color: C.soft } },
+    { text: "recall ~4× higher", options: { bold: true, color: C.txt } },
+    { text: " — because missing a churner (≈12 months of lost revenue) costs far more than sending a loyal customer an unneeded offer.", options: { color: C.soft } },
+  ], { x: x + 0.35, y: fy, w: w - 0.7, h: 0.95, valign: "middle", fontFace: FB, fontSize: 14, margin: 0 });
+  s.addNotes("Formally: supervised binary classification. Target is whether a customer cancels within 30 days. We optimise F2 because recall matters more than precision here — missing a churner costs far more than a false alert — and we validate on a time-based split to mimic production and avoid leakage.");
 }
 
 // ---------- 5. SOLUTION OVERVIEW ----------

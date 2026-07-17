@@ -247,7 +247,7 @@ function fitImg(s, path, bx, by, bw, bh) {
     ["Random Forest ★", "0.58", "0.93", "0.84"],
     ["XGBoost", "0.53", "0.93", "0.78"],
   ];
-  const rh = 0.62;
+  const rh = 0.58;
   rows.forEach((r, i) => {
     const y = ty + i * rh;
     const best = i === 2;
@@ -262,10 +262,22 @@ function fitImg(s, path, bx, by, bw, bh) {
         color: i === 0 ? C.txt : best ? C.accent : C.soft, margin: 0 });
     });
   });
+  const takeaways = [
+    [{ text: "★ marks the pick — ", options: { bold: true, color: C.txt } }, { text: "Random Forest wins on F2 (our primary metric).", options: { color: C.soft } }],
+    [{ text: "All three reach AUC ≈ 0.93 — ", options: { bold: true, color: C.txt } }, { text: "they separate churners from non-churners well.", options: { color: C.soft } }],
+    [{ text: "High recall (0.84) — ", options: { bold: true, color: C.txt } }, { text: "catches 84% of the customers who will leave.", options: { color: C.soft } }],
+  ];
+  const ky = ty + 4 * rh + 0.2;
+  takeaways.forEach((b, i) => {
+    const y = ky + i * 0.62;
+    s.addShape(p.ShapeType.roundRect, { x: tx, y: y + 0.05, w: 0.15, h: 0.15, rectRadius: 0.07,
+      fill: { color: C.accent }, line: { type: "none" } });
+    s.addText(b, { x: tx + 0.3, y: y - 0.1, w: tw - 0.3, h: 0.6, fontFace: FB, fontSize: 13, margin: 0 });
+  });
   s.addText([
-    { text: "F2 is the primary metric (recall-weighted). ", options: { color: C.soft } },
+    { text: "F2 is recall-weighted. ", options: { color: C.soft } },
     { text: "Low precision (~0.26) is expected at a 5% base rate with a recall-first threshold.", options: { color: C.muted, italic: true } },
-  ], { x: tx, y: ty + 4 * rh + 0.15, w: tw, h: 1.2, fontFace: FB, fontSize: 12.5, margin: 0 });
+  ], { x: tx, y: ky + 3 * 0.62 + 0.05, w: tw, h: 0.9, fontFace: FB, fontSize: 12, margin: 0 });
 
   card(s, 6.05, 2.0, 3.3, 4.75, "FFFFFF");
   fitImg(s, "outputs/figures/pr_curves.png", 6.2, 2.15, 3.0, 4.45);
